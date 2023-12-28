@@ -8,6 +8,8 @@
 
 作品：The Executive Office系列 <br>
 作者：Tal Bauer <br>
+评分：4.2/5 <br>
+
 关键词：搬床白宫🇺🇸；搬床克里姆林宫🇷🇺；搬床沙特夏宫🇸🇦；战争；碟中谍；多线发展 <br>
 
 卷一：Enemies of the State <br>

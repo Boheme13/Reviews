@@ -6,7 +6,7 @@
 
 作品：The Rat Catcher's Daughter
 作者：K.J. Charles
-评分：4.4/5
+评分：3.0/5
 
 1893年伦敦，Christina小姐在歌舞厅驻唱为生，然而她却惹上了恶霸Kammy Grizzard，被迫签下卖身契，而此次Kammy竟然要强迫她给金主卖身。Christina表示自己为艺术写歌不会porn this way，结果整个人被Kammy的跟班抱起，然后即将被打断跟腱时，两个男飞贼突然出现，花下巨款解除了Christina的契约为她赎回自由身。面对眼前的两个新强盗，Christina惊恐万分，以为自己又被转卖到另一个恶霸手中，然而飞贼之一的Jerry却表示他们受好朋友Stan委托特意来救美。
 

@@ -9,7 +9,7 @@
 
 作品：Magic in Manhattan Series<br>
 作者：Allie Therin<br>
-评分：5/5<br>
+评分：4.8/5<br>
 
 关键词：奇幻；魔法；咆哮二十年；爵士年代
 

@@ -8,7 +8,7 @@
 
 作品：Comfort and Joy <br>
 作者：Jim Grimsley <br>
-评分：4.8/5 <br>
+评分：4.2/5 <br>
 
 关键词：千禧年；医院；深柜老钱医生爱上勤杂管理员；疾病；HE
 

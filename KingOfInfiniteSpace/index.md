@@ -7,7 +7,7 @@
 
 作品：The King of Infinite Space<br>
 作者：Lyndsay Faye<br>
-评分：4.7/5<br>
+评分：3.8/5<br>
 
 关键词：《哈姆雷特》现代改写；纽约；百老汇；虐恋；神经质；象征主义
 

@@ -7,7 +7,7 @@
 
 作品：Fathers of the Bride<br>
 作者：Marshall Thornton<br>
-评分：4.6/5<br>
+评分：3.9/5<br>
 
 关键词：一婚五订；善待你的敌人；女儿订婚，老夫夫破镜重圆；逼飞奶炸；亲家大战
 

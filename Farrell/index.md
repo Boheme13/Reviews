@@ -16,7 +16,7 @@
 
 作品：Farrell Covington and the Limits of Style<br>
 作者：Paul Rudnick<br>
-评分：4.9/5<br>
+评分：4.7/5<br>
 
 关键词：1973-2023五十年爱情史诗，罗曼喜剧，半自传，坎普风，疯批老钱公子 & 百老汇剧作人
 

@@ -1,13 +1,13 @@
 ## Seducing Professor Coyle
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
-![avatar](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/113208872/original/ed05c600b6286111f200856463782c01f8976d91/help-you-learn-python-programming-language.jpg)
+
 <br>
 <br>
 
 作品：Seducing Professor Coyle<br>
 作者：Darien Cox<br>
-评分：4.6/5<br>
+评分：4.0/5<br>
 
 关键词：师生；搬床；三角恋
 

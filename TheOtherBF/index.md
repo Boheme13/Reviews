@@ -7,7 +7,7 @@
 
 作品：The Other Boyfriend<br>
 作者：Darien Cox<br>
-评分：4.6/5<br>
+评分：3.8/5<br>
 
 关键词：捉三记，善待你的敌人，小三help小三
 

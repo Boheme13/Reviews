@@ -9,7 +9,7 @@
 
 作品：A Little Life <br>
 作者：Hanya Yanagihara (柳原汉雅) <br>
-评分：5/5 <br>
+评分：4.8/5 <br>
 
 关键词：史上最悲伤的小说；虐待关系；友谊；纯男性关系
 

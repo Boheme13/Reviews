@@ -43,7 +43,7 @@
 [An Arrow’s Flight](https://boheme13.github.io/Reviews/ArrowsFlight/) <br>
 关键词：希腊神话现代新编；阿喀琉斯之子；特洛伊战争；男妓；反英雄叙事；HIV潮
 
-[Audition](https://boheme13.github.io/Reviews/Audition/) ⭐️⭐️<br>
+[Audition](https://boheme13.github.io/Reviews/Audition/) ⭐️⭐️⭐️<br>
 关键词：coming of age；全文翻译
  <br><br> 
 ![avatar](https://media.newyorker.com/photos/5ff74dd3ca8142b226b81b5f/2:1/w_2007,h_1003,c_limit/210118_r37730_rd.jpg)<br>
@@ -76,10 +76,10 @@
 [Fireman’s Carry (短篇前传)](https://boheme13.github.io/Reviews/CannoliSeries/) <br>
 关键词：卡卡家族；意大利雕塑般侧颜；阳肛四兄弟；消防员
 
-[The Carpet Weaver ](https://boheme13.github.io/Reviews/CarpetWeaver/) <br>
+[The Carpet Weaver ](https://boheme13.github.io/Reviews/CarpetWeaver/) ⭐️<br>
 关键词：七十年代阿富汗；穆斯林竹马禁忌之恋；手工艺；偷渡；监狱逃生；美国重逢
 
-[The Charm Offensive](https://boheme13.github.io/Reviews/CharmedOffensive/) ⭐️⭐️⭐️<br>
+[The Charm Offensive](https://boheme13.github.io/Reviews/CharmedOffensive/) ⭐️⭐️<br>
 关键词：三独素人；结婚真人秀；逼飞奶炸；喜剧；男主角爱上制作人
  <br><br> 
 ![avatar](https://images.squarespace-cdn.com/content/v1/5f80d42d7b438076f3238c47/1625774698994-8MCA52DV7D44Y1G1GBDR/image-asset.jpeg)<br>
@@ -91,7 +91,7 @@
 [2023扫文大全](https://boheme13.github.io/Reviews/Collection2023/) <br>
 关键词：70+本书扫文
 
-[Comfort and Joy ](https://boheme13.github.io/Reviews/ComfortAndJoy/) ⭐️⭐️<br>
+[Comfort and Joy ](https://boheme13.github.io/Reviews/ComfortAndJoy/) ⭐️<br>
 关键词：千禧年；医院；深柜老钱医生爱上勤杂管理员；疾病；HE
 
 [Confetti Hearts](https://boheme13.github.io/Reviews/ConfettiHearts/) <br>
@@ -136,16 +136,16 @@
 [Fathers of the Bride](https://boheme13.github.io/Reviews/FathersOfBride/) <br>
 关键词：一婚五订；善待你的敌人；女儿订婚，老夫夫破镜重圆；逼飞奶炸；亲家大战
 
-[Flight Behavior](https://boheme13.github.io/Reviews/FlightBehavior/) <br>
+[Flight Behavior](https://boheme13.github.io/Reviews/FlightBehavior/) ⭐️<br>
 关键词：压抑婚姻；单亲；红州小镇；帝皇蝶；气候变化
 
-[Lord Foxbridge Butts In](https://boheme13.github.io/Reviews/Foxbridge/) ⭐️⭐️<br>
+[Lord Foxbridge Butts In](https://boheme13.github.io/Reviews/Foxbridge/) ⭐️<br>
 关键词：伦敦，1920s，贵族侦探集，通讯录万能贴身男仆(非cp)，地下通讯录世界，cozy mystery
 
 [GPT ](https://boheme13.github.io/Reviews/GPT/) <br>
 
 
-[The Gentle Art of Fortune Hunting ](https://boheme13.github.io/Reviews/GentleArt/) ⭐️⭐️<br>
+[The Gentle Art of Fortune Hunting ](https://boheme13.github.io/Reviews/GentleArt/) ⭐️<br>
 关键词：直弯姐弟 & 直弯贵族好友，骗婚不成反落入女方舅舅手里，Math/概率论
 
 [Gentlemen Series](https://boheme13.github.io/Reviews/Gentlemen/) ⭐️⭐️⭐️<br>
@@ -154,7 +154,7 @@
 ![avatar](https://cdna.artstation.com/p/assets/images/images/017/753/690/large/harry-grace-all-3-covers.jpg?1557227031)<br>
 
 
-[London Series](https://boheme13.github.io/Reviews/Gentlemen/LondonSeries/) <br>
+[London Series](https://boheme13.github.io/Reviews/Gentlemen/LondonSeries/) ⭐️⭐️⭐️<br>
 关键词：伦敦，贵族，维多利亚时代
 
 [县级市系列](https://boheme13.github.io/Reviews/HazzardSomers/) ⭐️<br>
@@ -163,10 +163,10 @@
 [Heroes for Ghosts ](https://boheme13.github.io/Reviews/HerosForGhosts/) <br>
 关键词：穿越，一战->现代，士兵，轮回，改写命运
 
-[Him 翻译](https://boheme13.github.io/Reviews/HimTrans/) <br>
+[Him 翻译](https://boheme13.github.io/Reviews/HimTrans/) ⭐️<br>
 关键词：短篇，女同写的男同文学
 
-[His Royal Secret ](https://boheme13.github.io/Reviews/HisRoyal/) ⭐️⭐️⭐️<br>
+[His Royal Secret ](https://boheme13.github.io/Reviews/HisRoyal/) ⭐️⭐️<br>
 关键词：英国王子；德国记者；皇室
 
 [Honeytrap ](https://boheme13.github.io/Reviews/Honeytrap/) ⭐️⭐️<br>
@@ -175,16 +175,16 @@
 ![avatar](https://townsquare.media/site/442/files/2015/06/The-Man-From-UNCLE-trailer.jpg)<br>
 
 
-[Hostile Takeover](https://boheme13.github.io/Reviews/HostileTakeover/) ⭐️<br>
+[Hostile Takeover](https://boheme13.github.io/Reviews/HostileTakeover/) <br>
 关键词：狗血杠杆；善待你的敌人；首谈性侵；昔日霸总变卖身男奴；gαy for you；假男友变真男友；幼儿园商战
 
-[I Saw You First](https://boheme13.github.io/Reviews/ISawYouFirst/) ⭐️<br>
+[I Saw You First](https://boheme13.github.io/Reviews/ISawYouFirst/) <br>
 关键词：善待你的敌人；爱他就像开着一辆新玛莎拉蒂冲进死胡同；兄弟抢男人
 
 [In Memoriam](https://boheme13.github.io/Reviews/InMemoriam/) <br>
 关键词：双向奔赴；暗恋；WWI；青年贵族上战场；PTSD
 
-[Incomplete Proof 翻译](https://boheme13.github.io/Reviews/IncompleteProof/) ⭐️⭐️<br>
+[Incomplete Proof 翻译](https://boheme13.github.io/Reviews/IncompleteProof/) ⭐️⭐️⭐️<br>
 关键词：分手后破镜重圆；数学证明 = 时装走秀；P != NP
  <br><br> 
 ![avatar](https://imgs.xkcd.com/comics/travelling_salesman_problem.png)<br>
@@ -202,16 +202,16 @@
 [Jackdaw](https://boheme13.github.io/Reviews/Jackdaw/) <br>
 关键词：男飞贼 & 警察；前作反派变主角；喜鹊王
 
-[John Chu短篇小说合集](https://boheme13.github.io/Reviews/JohnChu/) <br>
+[John Chu短篇小说合集](https://boheme13.github.io/Reviews/JohnChu/) ⭐️⭐️<br>
 关键词：科幻，短篇，华裔
 
 [KC Trilogy](https://boheme13.github.io/Reviews/KCTriology/) <br>
 关键词：coming of age, 棒球运动员 & 制作人, 流浪, 22年虐恋
 
-[The King of Infinite Space](https://boheme13.github.io/Reviews/KingOfInfiniteSpace/) ⭐️<br>
+[The King of Infinite Space](https://boheme13.github.io/Reviews/KingOfInfiniteSpace/) <br>
 关键词：《哈姆雷特》现代改写；纽约；百老汇；虐恋；神经质；象征主义
 
-[Less ](https://boheme13.github.io/Reviews/Less/) ⭐️⭐️<br>
+[Less ](https://boheme13.github.io/Reviews/Less/) ⭐️⭐️⭐️<br>
 关键词：喜剧Comedy，文风轻散愉快，为了躲前男友婚礼去环球旅行，奥德赛英雄史诗
  <br><br> 
 ![avatar](https://hips.hearstapps.com/hmg-prod/images/es-042318-andrew-sean-greer-pulitzer-prize-1524509921.jpg)<br>
@@ -238,14 +238,17 @@
 [The Lonely War](https://boheme13.github.io/Reviews/LonelyWar/) <br>
 关键词：孤独；佛教；中美混血；三角共存情感；二战；日本集中营；缘起性空
 
-[The Lost Language of Cranes ](https://boheme13.github.io/Reviews/LostLanguageOfCrane/) ⭐️<br>
+[The Lost Language of Cranes ](https://boheme13.github.io/Reviews/LostLanguageOfCrane/) <br>
 关键词：父子都是Gay，互不知情，纽约，1980s，家庭，身份认同
 
 [Lucky Charm](https://boheme13.github.io/Reviews/LuckyCharm/) <br>
 关键词：短篇；好莱坞最后一个巨星；搬床失败；一个明星的断气
 
-[The Madonna of Bolton](https://boheme13.github.io/Reviews/MadonnaOfBolton/) ⭐️<br>
+[The Madonna of Bolton](https://boheme13.github.io/Reviews/MadonnaOfBolton/) ⭐️⭐️<br>
 关键词：麦当娜死忠粉，英国，HE
+ <br><br> 
+![avatar](https://i.guim.co.uk/img/media/90bf42ecce4bcee504dbd4ad0a2ad28020091b79/75_0_3519_2556/master/3519.jpg?width=620&dpr=2&s=none)<br>
+
 
 [Magic in Manhattan Series](https://boheme13.github.io/Reviews/MagicInManhattan/) ⭐️⭐️⭐️<br>
 关键词：奇幻；魔法；咆哮二十年；爵士年代
@@ -253,7 +256,7 @@
 ![avatar](https://m.media-amazon.com/images/S/aplus-media/vc/c6b57c13-a367-4c7d-83a7-92b2cd2a5858.__CR0,0,970,300_PT0_SX970_V1___.jpg)<br>
 
 
-[Memorial ](https://boheme13.github.io/Reviews/Memorial/) <br>
+[Memorial ](https://boheme13.github.io/Reviews/Memorial/) ⭐️<br>
 关键词：休斯顿 & 大阪；美国人 & 男友日本母亲；推特体；亲人；食物
 
 [Mended with Gold](https://boheme13.github.io/Reviews/MendedWithGold/) <br>
@@ -286,7 +289,7 @@
 [Perfect Day](https://boheme13.github.io/Reviews/PerfectDay/) <br>
 关键词：简奥斯汀，《劝导》改写，破镜重圆，一个明星的诞生
 
-[How to Piss Off A Failed Super-Soldier ](https://boheme13.github.io/Reviews/PissOffFailedHero/) <br>
+[How to Piss Off A Failed Super-Soldier ](https://boheme13.github.io/Reviews/PissOffFailedHero/) ⭐️<br>
 关键词：失败改造人 ❤️ 暗杀特工；短篇小说；科幻；大逃杀；华裔作者；兄弟和解；真·善待你的敌人
 
 [Playing the Ace](https://boheme13.github.io/Reviews/PlayingTheAce/) <br>
@@ -298,7 +301,7 @@
 ![avatar](https://hips.hearstapps.com/hmg-prod/images/playing-the-palace-1621273366.jpg?resize=1200:*)<br>
 
 
-[Point of Contact](https://boheme13.github.io/Reviews/PointOfContact/) ⭐️<br>
+[Point of Contact](https://boheme13.github.io/Reviews/PointOfContact/) <br>
 关键词：战争，中年丧子父亲 & 亡子战友，PTSD
 
 [Pop Star Series](https://boheme13.github.io/Reviews/PopStar/) <br>
@@ -316,10 +319,10 @@
 [Spotlight](https://boheme13.github.io/Reviews/PopStar/2/) <br>
 关键词：单亲带娃流行至尊 & 酒吧驻唱兼职保姆小众艺人；音乐产业；男团；为艺术不为榜单写歌；独立行走 v.s. 厂牌打工卖身
 
-[Proper Scoundrels](https://boheme13.github.io/Reviews/ProperScoundrels/) ⭐️⭐️⭐️<br>
+[Proper Scoundrels](https://boheme13.github.io/Reviews/ProperScoundrels/) ⭐️⭐️<br>
 关键词：善待你的敌人；嘴贱腹黑闷骚英国子爵 & 西班牙奶狗血族法师
 
-[各个族裔作品大全 ](https://boheme13.github.io/Reviews/RaceEthinicity/) ⭐️<br>
+[各个族裔作品大全 ](https://boheme13.github.io/Reviews/RaceEthinicity/) ⭐️⭐️<br>
 关键词：15+不同族裔的酷儿作品
 
 [The Rat Catcher's Daughte](https://boheme13.github.io/Reviews/RatCatchersDaughter/) <br>
@@ -343,17 +346,17 @@
 [The Second Footman](https://boheme13.github.io/Reviews/SecondFootman/) ⭐️<br>
 关键词：法国文学；男仆上位；心机
 
-[Seducing Professor Coyle](https://boheme13.github.io/Reviews/SeducingProfessorCoyle/) <br>
+[Seducing Professor Coyle](https://boheme13.github.io/Reviews/SeducingProfessorCoyle/) ⭐️<br>
 关键词：师生；搬床；三角恋
 
-[Server](https://boheme13.github.io/Reviews/Server/) ⭐️⭐️<br>
+[Server](https://boheme13.github.io/Reviews/Server/) ⭐️⭐️⭐️<br>
 关键词：大阪，旅日美国人，closure
  <br><br> 
 ![avatar](https://media.newyorker.com/photos/64e7b9cfd9946db461924672/1:1/w_2560,h_2560,c_limit/Washington_Server_Novella_social.png)<br>
 
 
-[族裔作品大全 ](https://boheme13.github.io/Reviews/RaceEthinicity/) Rating: 4.7](https://boheme13.github.io/Reviews/Sorting/) <br>
-关键词：史上最悲伤的小说；虐待关系；友谊；纯男性关系
+[族裔作品大全 ](https://boheme13.github.io/Reviews/RaceEthinicity/) Rating: 4.5](https://boheme13.github.io/Reviews/Sorting/) <br>
+关键词：舞台剧；福斯特；2016年纽约；超现实生死对话；三代人；HIV；里根/特朗普时代
 
 [St-St-stuffed](https://boheme13.github.io/Reviews/St-St-Stuffed/) <br>
 关键词：曾被霸凌的口吃霸总；昔日富二代校霸变洗脚婢；善待你的敌人
@@ -379,23 +382,20 @@
 [The Water that Falls On You From Nowhere翻译](https://boheme13.github.io/Reviews/WaterFallsOnYou/) ⭐️<br>
 关键词：雨果奖短篇；华裔；科幻；传宗接代；带白人老公见家长
 
-[When You Were Me](https://boheme13.github.io/Reviews/WhenYouWereMe/) ⭐️⭐️<br>
+[When You Were Me](https://boheme13.github.io/Reviews/WhenYouWereMe/) ⭐️<br>
 关键词：互换身体！中年危机霸总 & 年轻贫穷美少男 互换
 
 [The Winkler Case ](https://boheme13.github.io/Reviews/WinklerCase/) <br>
 关键词：战后黄金年代；悬疑；意料外结局；点睛之笔
 
-[Winterbourne系列四部曲](https://boheme13.github.io/Reviews/WinterbourneSeries/) ⭐️<br>
+[Winterbourne系列四部曲](https://boheme13.github.io/Reviews/WinterbourneSeries/) <br>
 关键词：节日系列
 
 [The World and All That It Holds ](https://boheme13.github.io/Reviews/WorldAndAllThatItHolds/) <br>
 关键词：一战，欧亚逃难之旅，多语言
 
-[The World Well Lost ](https://boheme13.github.io/Reviews/WorldWellLost/) ⭐️⭐️<br>
+[The World Well Lost ](https://boheme13.github.io/Reviews/WorldWellLost/) ⭐️<br>
 关键词：短篇；科幻；外星；太空旅行二人组；暗恋；恐同；现实隐喻
- <br><br> 
-![avatar](https://i.ibb.co/yFzn339/IMG-1849.jpg)<br>
-
 
 [Young Mungo](https://boheme13.github.io/Reviews/YoungMungo/) <br>
 关键词：后撒切尔时代苏格兰，少年黑帮版罗密欧与朱丽叶，家暴，酗酒

@@ -82,12 +82,20 @@ def main():
                     if line.find("评分") != -1 and line.find('/') != -1 and not find_rate:
                         index = line.find('/')
                         rating = round(float(line[3:index]), 2)
-                        count = float(line[3:index]) - 4.7
+                        count = float(line[3:index]) - 4.0
                         find_rate = True
                         if count < -0.1:
                             continue
                         count = int((count + 0.001) / 0.1) + 1
+                        print(count)
                         # print(book, count)
+                        if count >= 7:
+                            count = 3
+                        elif count >= 4:
+                            count = 2
+                        elif count >= 1:
+                            count = 1
+                        
                         if count >= 2:
                             add_img = True
                         for i in range(min(count, 3)):
@@ -131,7 +139,7 @@ def main():
             output.write(f"{output_str}<br>\n")
             if book.keywords != "":
                 output.write(f"{book.keywords}")
-            if book.rating >= 4.69 and book.img_url != "":
+            if book.rating >= 4.2 and book.img_url != "":
                 output.write("\n <br><br> \n")
                 if book.img_url[0:2] == "./":
                     output.write(f"![img](../{book.img_url})<br>\n")

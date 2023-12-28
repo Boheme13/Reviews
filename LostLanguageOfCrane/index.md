@@ -7,7 +7,7 @@
 
 作品：The Lost Language of Cranes <br>
 作者：David Leavitt <br>
-评分：4.7/5 <br>
+评分：3.7/5 <br>
 
 关键词：父子都是Gay，互不知情，纽约，1980s，家庭，身份认同
 

@@ -2,7 +2,7 @@
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
 作品：Winterbourne系列四部曲<br>
-评分：4.7/5<br>
+评分：3.9/5<br>
 关键词：节日系列<br>
 
 ![avatar](https://i1.wp.com/kimmerseroticbookbanter.com/wp-content/uploads/2018/11/Winterbourne-Series.png?fit=940%2C788&ssl=1)

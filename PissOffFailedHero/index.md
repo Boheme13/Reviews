@@ -6,7 +6,7 @@
 
 作品：How to Piss Off A Failed Super-Soldier <br>
 作者：John Chu  朱中宜 <br>
-评分：4.6/5 <br>
+评分：4.1/5 <br>
 
 关键词：失败改造人 ❤️ 暗杀特工；短篇小说；科幻；大逃杀；华裔作者；兄弟和解；真·善待你的敌人
 

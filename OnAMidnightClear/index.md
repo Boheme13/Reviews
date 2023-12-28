@@ -7,7 +7,7 @@
 
 作品：On a Midnight Clear<br>
 作者：Lily Morton<br>
-评分：4.4/5<br>
+评分：3.2/5<br>
 
 关键词：子爵 & 他家复活的雕塑；魔法；圣诞节
 

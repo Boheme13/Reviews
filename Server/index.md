@@ -7,7 +7,7 @@
 
 作品：Server<br>
 作者：Bryan Washington<br>
-评分：4.8/5<br>
+评分：4.6/5<br>
 
 关键词：大阪，旅日美国人，closure
 

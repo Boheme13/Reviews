@@ -8,7 +8,7 @@
 
 作品：Book Boyfriend <br>
 作者：Kris Ripper <br>
-评分：4.6/5 <br>
+评分：3.7/5 <br>
 
 关键词：metafiction；诺桑觉寺改写
 

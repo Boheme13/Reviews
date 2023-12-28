@@ -18,7 +18,7 @@
 
 作品：Zone Eight (From To Paradise) <br>
 作者：Hanya Yanagihara<br>
-评分：4.9/5<br>
+评分：4.8/5<br>
 
 关键词：疫情，封控，末日极权，反乌托邦，婚姻/亲情亲密关系
 

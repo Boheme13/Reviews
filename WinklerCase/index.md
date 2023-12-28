@@ -7,7 +7,7 @@
 
 作品：The Winkler Case <br>
 作者：David Greene<br>
-评分：4.6/5<br>
+评分：3.6/5<br>
 
 关键词：战后黄金年代；悬疑；意料外结局；点睛之笔
 

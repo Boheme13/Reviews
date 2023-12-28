@@ -7,7 +7,7 @@
 
 作品：Point of Contact<br>
 作者：Melanie Hansen<br>
-评分：4.7/5
+评分：3.9/5
 
 关键词：战争，中年丧子父亲 & 亡子战友，PTSD
 

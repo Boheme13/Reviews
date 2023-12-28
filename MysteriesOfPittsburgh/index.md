@@ -7,7 +7,7 @@
 
 作品：The Mysteries of Pittsburgh<br>
 作者：Michael Chabon<br>
-评分：4.4/5<br>
+评分：3.2/5<br>
 
 关键词：麦田里的守望者风格 ；coming of age；大学毕业；深柜；黑帮
 

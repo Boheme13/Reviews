@@ -7,7 +7,7 @@
 
 作品：His Royal Secret <br/>
 作者：Lilah Pace <br/>
-评分：5/5 <br>
+评分：4.5/5 <br>
 
 关键词：英国王子；德国记者；皇室
 

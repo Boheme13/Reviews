@@ -6,7 +6,7 @@
 
 作品：Lord Foxbridge Butts In<br>
 作者：Robert L. Manners<br>
-评分：4.8/5<br>
+评分：4.0/5<br>
 
 关键词：伦敦，1920s，贵族侦探集，通讯录万能贴身男仆(非cp)，地下通讯录世界，cozy mystery
 

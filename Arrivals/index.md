@@ -7,7 +7,7 @@
 
 作品：Arrivals<br>
 作者：Bryan Washington<br>
-评分：4.4/5<br>
+评分：2.8/5<br>
 
 关键词：纽约客短篇；演员 & 素人；后疫情时代
 

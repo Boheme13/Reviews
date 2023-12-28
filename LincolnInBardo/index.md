@@ -9,7 +9,7 @@
 
 作品：Lincoln in the Bardo<br>
 作者：George Saunders<br>
-评分：4.6/5<br>
+评分：3.6/5<br>
 
 关键词：南北战争；佛教中阴；鬼魂；轮回
 

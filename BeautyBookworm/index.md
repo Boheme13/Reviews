@@ -7,7 +7,7 @@
 
 作品：Beauty and the Bookworm<br>
 作者：Nick Pageant<br>
-评分：4.7/5<br>
+评分：4.0/5<br>
 
 关键词：GUTS🟣，餐券男 & 充实逼电筒
 

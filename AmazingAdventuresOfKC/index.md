@@ -7,7 +7,7 @@
 
 作品：The Amazing Adventures of Kavalier and Clay<br>
 作者：Michael Chabon <br>
-评分：5/5 <br>
+评分：4.8/5 <br>
 
 关键词：漫画家；超级英雄；逃脱侠；逃脱术；纳粹；犹太；漫画家 & 超级英雄演员
 

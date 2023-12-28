@@ -6,7 +6,7 @@
 
 作品：The World and All That It Holds <br>
 作者：Aleksandar Hemon <br>
-评分：4.6/5 <br>
+评分：3.8/5 <br>
 
 关键词：一战，欧亚逃难之旅，多语言
 

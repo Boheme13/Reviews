@@ -7,7 +7,7 @@
 
 作品：Less is Lost<br>
 作者：Andrew Sean Greer<br>
-评分：4.6/5<br>
+评分：3.6/5<br>
 
 关键词：Less续集；现代奥德赛；喜剧；游记体；HE
 

@@ -1,12 +1,11 @@
 ## 伦敦十一部曲
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
-![avatar](https://cdna.artstation.com/p/assets/images/images/017/753/690/large/harry-grace-all-3-covers.jpg?1557227031)
 <br>
 <br>
 
 作品：London Series<br>
-评分：4.5/5<br>
+评分：4.8/5<br>
 关键词：伦敦，贵族，维多利亚时代
 
 

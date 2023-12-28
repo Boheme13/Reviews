@@ -7,7 +7,7 @@
 
 作品：The World Well Lost <br>
 作者： Theodore Sturgeon <br>
-评分：4.8/5 <br>
+评分：4.2/5 <br>
 一篇值得精读的小说，只有20页 <br>
 <br>
 

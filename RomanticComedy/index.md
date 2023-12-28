@@ -7,7 +7,7 @@
 
 作品：Romantic Comedy<br>
 作者：Curtis Sittenfeld<br>
-评分：4.5/5<br>
+评分：3.7/5<br>
 
 关键词：双钻年专歌手 & SNL写手；喜剧制作；新冠；居家隔离
 

@@ -7,7 +7,7 @@
 
 作品：Honeytrap <br>
 作者：Aster Glenn Gray <br>
-评分：4.8/5 <br>
+评分：4.4/5 <br>
 
 关键词：冷战；美苏；特工；传奇式的三十年感情羁绊；三部曲 <br>
 

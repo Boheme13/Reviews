@@ -7,7 +7,7 @@
 
 作品：Flight Behavior<br>
 作者：Barbara Kingsolver<br>
-评分：4.6/5<br>
+评分：4.0/5<br>
 
 关键词：压抑婚姻；单亲；红州小镇；帝皇蝶；气候变化
 

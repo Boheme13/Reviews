@@ -8,7 +8,7 @@
 
 作品：American Scholar<br>
 作者：Patrick E. Horrigan<br>
-评分：4.6/5<br>
+评分：3.4/5<br>
 
 关键词：metafiction，三代美国学者，麦肯锡/里根/川普时代，文学评论，大学学术
 

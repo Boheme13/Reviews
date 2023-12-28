@@ -1,11 +1,12 @@
 ## John Chu短篇小说合集
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
-![avatar](https://miro.medium.com/max/1200/1*C2eFdxuvJQU5KmzO02kZSA.jpeg)
+
 <br>
 <br>
 
 作品：John Chu短篇小说合集<br>
 关键词：科幻，短篇，华裔<br>
+评分：3.8 <br>
 
 ## 作者介绍
 John Chu (中文名：朱中宜) 是一个微电子工程师，他六岁随父母移民美国。写作是他的业余爱好，他从2011年开始陆续在杂志上发表短篇小说。科幻、中国文化、LGBT是他故事的重要元素。作为华裔和计算机工程博士，他写出的作品别具一格，人物的同性感情含蓄却温暖动人，故事的背景天马行空却有着严谨的结构和现实关联。

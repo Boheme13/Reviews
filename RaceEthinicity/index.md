@@ -3,7 +3,7 @@
 
 
 作品：各个族裔作品大全 <br>
-评分：4.7/5 <br>
+评分：4.5/5 <br>
 关键词：15+不同族裔的酷儿作品<br>
 
 ### 华裔：Thomas and Niko in the City of Trees by Kid Boise

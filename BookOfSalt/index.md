@@ -8,7 +8,7 @@
 
 作品：The Book of Salt <br>
 作者：Monique Truong<br>
-评分：4.75/5<br>
+评分：4.0/5<br>
 
 关键词：越南厨师；巴黎；后殖民主义；回忆录体虚构小说
 

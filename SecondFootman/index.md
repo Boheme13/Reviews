@@ -6,7 +6,7 @@
 
 作品：The Second Footman<br>
 作者：Jasper Barry<br>
-评分：4.7/5<br>
+评分：4.2/5<br>
 
 关键词：法国文学；男仆上位；心机
 

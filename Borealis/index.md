@@ -6,7 +6,7 @@
 <br>
 
 作品：Borealis侦探事务所系列<br>
-评分：4.6/5<br>
+评分：3.8/5<br>
 关键词：私家侦探，暗恋变恋人，体型差，长系列<br>
 
 ## Borealis侦探社系列 (by Gregory Ashe)

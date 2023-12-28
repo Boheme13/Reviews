@@ -5,7 +5,7 @@
 <br>
 
 作品：The Water that Falls On You From Nowhere翻译<br>
-评分：4.7/5<br>
+评分：4.1/5<br>
 
 关键词：雨果奖短篇；华裔；科幻；传宗接代；带白人老公见家长
 

@@ -6,7 +6,7 @@
 <br>
 
 作品：Big Bad Wolf Series<br>
-评分：4.8/5<br>
+评分：4.5/5<br>
 
 关键词：人狼；FBI；探案；强强
 

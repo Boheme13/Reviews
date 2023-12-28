@@ -7,7 +7,7 @@
 
 作品：The Charm Offensive<br>
 作者：Alison Cochrun<br>
-评分：4.9/5<br>
+评分：4.3/5<br>
 
 关键词：三独素人；结婚真人秀；逼飞奶炸；喜剧；男主角爱上制作人
 

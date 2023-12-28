@@ -9,7 +9,7 @@
 
 作品：Heroes for Ghosts <br>
 作者：Jackie North <br>
-评分：4.6/5 <br>
+评分：3.4/5 <br>
 
 关键词：穿越，一战->现代，士兵，轮回，改写命运
 

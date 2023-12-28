@@ -5,7 +5,7 @@
 
 作品：The Bad Husband’s Handbook<br>
 作者：Reanna Pryce<br>
-评分：4.5/5<br>
+评分：3.2/5<br>
 
 关键词：丧偶式育儿；离婚冷静期；逆向约会
 

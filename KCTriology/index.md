@@ -6,7 +6,7 @@
 
 作品：KC Trilogy<br>
 作者：Tom Mendicino<br>
-评分：4.6/5<br>
+评分：3.8/5<br>
 
 关键词：coming of age, 棒球运动员 & 制作人, 流浪, 22年虐恋
 

@@ -7,7 +7,7 @@
 
 作品：10 Things that Never Happened<br>
 作者：Alexis Hall<br>
-评分：4.7/5<br>
+评分：4.2/5<br>
 
 关键词：圣诞，romcom，被炒后对老板假装失忆，grumpy/sunshine, forced proximity
 

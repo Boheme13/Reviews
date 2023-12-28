@@ -7,7 +7,7 @@
 
 作品：A Place Called Winter<br>
 作者：Patrick Gale<br>
-评分：4.5/5<br>
+评分：3.0/5<br>
 
 关键词：英格兰->加拿大；拓荒；自我认同
 

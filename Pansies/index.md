@@ -4,7 +4,7 @@
 
 作品：Pansies<br>
 作者：Alexis Hall<br>
-评分：4.2/5 💣<br>
+评分：2.8/5 💣<br>
 
 The most frustrating aspect of this book is its tendency to glorify one MC's passiveness while trivializing the other's agency in shaping his own destiny. Alfie, born into a blue-collar family in Northern England, was once a bully king in high school. He went on to study financial math at LSE and became an investment banker in London after graduation. Throughout the years, he faced romantic failures with two of his hipster best friends: Kitty, who helped him realize he was gay, and Greg, a wealthy trust fund baby who was only sexually attracted to Alfie. Discovering his homosexuality triggered an identity crisis for Alfie, as he had already internalized heteronormativity.
 

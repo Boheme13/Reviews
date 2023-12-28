@@ -7,7 +7,7 @@
 
 作品：Down in Flames<br>
 作者：Parker St. John<br>
-评分：4.5/5<br>
+评分：3.5/5<br>
 
 关键词：竞技骑牛；打工弟爱上鳏夫老板
 

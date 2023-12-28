@@ -10,7 +10,7 @@
 
 作品：Playing the Palace<br>
 作者：Paul Rudnick<br>
-评分：4.8/5<br>
+评分：4.4/5<br>
 
 关键词：🇬🇧王子爱上我🇺🇸，喜剧，英国世男一爱上新泽西素人
 

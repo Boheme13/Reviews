@@ -8,7 +8,7 @@
 
 作品：Territory <br>
 作者：David Leavitt<br>
-评分：4.5/5
+评分：3.6/5
 
 关键词：短篇，隐晦，反同，虚伪家长
 

@@ -7,7 +7,7 @@
 
 作品：Audition<br>
 作者：Saïd Sayrafiezadeh<br>
-评分：4.8/5<br>
+评分：4.7/5<br>
 
 关键词：coming of age；全文翻译
 

@@ -7,7 +7,7 @@
 
 作品：Hostile Takeover<br>
 作者：Lucy Lennox<br>
-评分：4.7/5<br>
+评分：3.9/5<br>
 
 关键词：狗血杠杆；善待你的敌人；首谈性侵；昔日霸总变卖身男奴；gαy for you；假男友变真男友；幼儿园商战
 

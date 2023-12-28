@@ -7,7 +7,7 @@
 
 作品：The Cinderella Waltz<br>
 作者：Ann Beattie<br>
-评分：4.6/5<br>
+评分：3.0/5<br>
 
 关键词：纽约客短篇；婚姻；灰姑娘心理
 

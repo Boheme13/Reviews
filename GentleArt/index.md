@@ -7,7 +7,7 @@
 
 作品：The Gentle Art of Fortune Hunting <br>
 作者：KJ Charles <br>
-评分：4.8/5 <br>
+评分：4.0/5 <br>
 
 穷苦青年色诱富家女 却意外成为舅舅情人
 
