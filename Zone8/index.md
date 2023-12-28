@@ -77,6 +77,7 @@ I know we've spoken about this before, but do you feel as much of a phantom as I
 
 
 ## 时间线
+<pre>
 | 时间 | 事件 |
 | --- | ----------- |
 | 2004 | Charles出生 |
@@ -116,7 +117,7 @@ I know we've spoken about this before, but do you feel as much of a phantom as I
 | 2094 夏 | 英国特工开始解救Charlie |
 | 2094 秋 | 计划失败，Charlie被捕 |
 
-
+</pre>
 
 
 
