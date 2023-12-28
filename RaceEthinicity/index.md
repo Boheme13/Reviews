@@ -1,15 +1,9 @@
 ## Race & Ethnicity
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
-<!-- ![avatar](https://c.min.ms/t/d/member/c/100/100909/pagegallery/1618068280/d758cdc6.jpg) -->
 
-<!-- ### 华裔：Chinα Mountain Zhang by Maureen F. McHugh <br>
-未来世界夹缝生存的末日爱情，剧情简介比较那啥建议自己搜索，华裔 & 东欧裔
-
-<br> -->
-
-作品：各个族裔作品大全<br>
-评分：4.7/5<br>
+作品：各个族裔作品大全 <br>
+评分：4.7/5 <br>
 关键词：15+不同族裔的酷儿作品<br>
 
 ### 华裔：Thomas and Niko in the City of Trees by Kid Boise

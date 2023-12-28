@@ -1,7 +1,6 @@
 ## 谎言之水从天而降 翻译
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
-![avatar](https://i.loli.net/2021/09/11/j9GrvDslbPTNhBM.jpg)
 <br>
 <br>
 

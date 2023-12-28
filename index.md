@@ -1,5 +1,5 @@
 ## Reviews
-[回到主页](https://boheme13.github.io/Fiction.git.io/)<br><br>
+[回到主页](https://boheme13.github.io/Fiction.git.io/)   &nbsp;&nbsp;  [按评分排序](https://boheme13.github.io/Fiction.git.io/Sorting)  <br><br>
 
 [10 Things that Never Happened](https://boheme13.github.io/Reviews/10ThingsNeverHappened/) ⭐️<br>
 关键词：圣诞，romcom，被炒后对老板假装失忆，grumpy/sunshine, forced proximity
@@ -25,6 +25,9 @@
 ![avatar](https://dirtyplusdivine.files.wordpress.com/2019/07/escapist5_lg.jpg)<br>
 
 
+[American Scholar](https://boheme13.github.io/Reviews/AmericanScholar/) <br>
+关键词：metafiction，三代美国学者，麦肯锡/里根/川普时代，文学评论，大学学术
+
 [An Honest Man](https://boheme13.github.io/Reviews/AnHonestMan/) ⭐️<br>
 关键词：柏林墙；西德；间谍；生活西化；HE；coming of age
 
@@ -40,13 +43,16 @@
 [An Arrow’s Flight](https://boheme13.github.io/Reviews/ArrowsFlight/) <br>
 关键词：希腊神话现代新编；阿喀琉斯之子；特洛伊战争；男妓；反英雄叙事；HIV潮
 
-[Audition](https://boheme13.github.io/Reviews/Audition/) <br>
+[Audition](https://boheme13.github.io/Reviews/Audition/) ⭐️⭐️<br>
 关键词：coming of age；全文翻译
+ <br><br> 
+![avatar](https://media.newyorker.com/photos/5ff74dd3ca8142b226b81b5f/2:1/w_2007,h_1003,c_limit/210118_r37730_rd.jpg)<br>
+
 
 [The Bad Husband’s Handbook](https://boheme13.github.io/Reviews/BadHusbandHandbook/) <br>
 关键词：丧偶式育儿；离婚冷静期；逆向约会
 
-[Band Sinister](https://boheme13.github.io/Reviews/BandSinister/) ⭐️<br>
+[Band Sinister](https://boheme13.github.io/Reviews/BandSinister/) <br>
 关键词：古风；哥特；前工革英式田园牧歌；小白兔闯狼巢；善待你的敌人
 
 [Beauty and the Bookworm](https://boheme13.github.io/Reviews/BeautyBookworm/) ⭐️<br>
@@ -313,7 +319,7 @@
 [Proper Scoundrels](https://boheme13.github.io/Reviews/ProperScoundrels/) ⭐️⭐️⭐️<br>
 关键词：善待你的敌人；嘴贱腹黑闷骚英国子爵 & 西班牙奶狗血族法师
 
-[各个族裔作品大全](https://boheme13.github.io/Reviews/RaceEthinicity/) ⭐️<br>
+[各个族裔作品大全 ](https://boheme13.github.io/Reviews/RaceEthinicity/) ⭐️<br>
 关键词：15+不同族裔的酷儿作品
 
 [The Rat Catcher's Daughte](https://boheme13.github.io/Reviews/RatCatchersDaughter/) <br>
@@ -339,6 +345,15 @@
 
 [Seducing Professor Coyle](https://boheme13.github.io/Reviews/SeducingProfessorCoyle/) <br>
 关键词：师生；搬床；三角恋
+
+[Server](https://boheme13.github.io/Reviews/Server/) ⭐️⭐️<br>
+关键词：大阪，旅日美国人，closure
+ <br><br> 
+![avatar](https://media.newyorker.com/photos/64e7b9cfd9946db461924672/1:1/w_2560,h_2560,c_limit/Washington_Server_Novella_social.png)<br>
+
+
+[族裔作品大全 ](https://boheme13.github.io/Reviews/RaceEthinicity/) Rating: 4.7](https://boheme13.github.io/Reviews/Sorting/) <br>
+关键词：史上最悲伤的小说；虐待关系；友谊；纯男性关系
 
 [St-St-stuffed](https://boheme13.github.io/Reviews/St-St-Stuffed/) <br>
 关键词：曾被霸凌的口吃霸总；昔日富二代校霸变洗脚婢；善待你的敌人
@@ -372,6 +387,9 @@
 
 [Winterbourne系列四部曲](https://boheme13.github.io/Reviews/WinterbourneSeries/) ⭐️<br>
 关键词：节日系列
+
+[The World and All That It Holds ](https://boheme13.github.io/Reviews/WorldAndAllThatItHolds/) <br>
+关键词：一战，欧亚逃难之旅，多语言
 
 [The World Well Lost ](https://boheme13.github.io/Reviews/WorldWellLost/) ⭐️⭐️<br>
 关键词：短篇；科幻；外星；太空旅行二人组；暗恋；恐同；现实隐喻
