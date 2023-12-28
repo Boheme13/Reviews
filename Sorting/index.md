@@ -1,5 +1,5 @@
 ## Reviews
-[回到主页](https://boheme13.github.io/Fiction.git.io/)<br><br>
+[回到主页](https://boheme13.github.io/Reviews/)<br><br>
 
 [A Little Life ](https://boheme13.github.io/Reviews/ALittleLife/) Rating: 5.0<br>
 关键词：史上最悲伤的小说；虐待关系；友谊；纯男性关系

@@ -1,5 +1,5 @@
 ## Reviews
-[回到主页](https://boheme13.github.io/Fiction.git.io/)   &nbsp;&nbsp;  [按评分排序](https://boheme13.github.io/Fiction.git.io/Sorting)  <br><br>
+[回到主页](https://boheme13.github.io/Reviews/)   &nbsp;&nbsp;  [按评分排序](https://boheme13.github.io/Reviews/Sorting)  <br><br>
 
 [10 Things that Never Happened](https://boheme13.github.io/Reviews/10ThingsNeverHappened/) ⭐️<br>
 关键词：圣诞，romcom，被炒后对老板假装失忆，grumpy/sunshine, forced proximity

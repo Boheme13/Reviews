@@ -32,7 +32,7 @@ def main():
 
     # clear the output file
     with open(output_path, 'w') as output:
-        output.write("""## Reviews\n[回到主页](https://boheme13.github.io/Fiction.git.io/)   &nbsp;&nbsp;  [按评分排序](https://boheme13.github.io/Fiction.git.io/Sorting)  <br><br>\n\n""")
+        output.write("""## Reviews\n[回到主页](https://boheme13.github.io/Reviews/)   &nbsp;&nbsp;  [按评分排序](https://boheme13.github.io/Reviews/Sorting)  <br><br>\n\n""")
 
     urls, books = [], []
     for path in paths:
@@ -117,7 +117,7 @@ def main():
     output_path = "./Sorting/index.md"
     # clear the output file
     with open(output_path, 'w') as output:
-        output.write("""## Reviews\n[回到主页](https://boheme13.github.io/Fiction.git.io/)<br><br>\n\n""")
+        output.write("""## Reviews\n[回到主页](https://boheme13.github.io/Reviews/)<br><br>\n\n""")
     
     books = [book for book in books if book.path != 'https://boheme13.github.io/Reviews/Sorting/']
     books.sort(key=lambda book: (book.rating, -word_to_number(book.title)), reverse=True)
