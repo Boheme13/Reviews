@@ -1,0 +1,19 @@
+## The Rat Catcher's Daughter
+[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+
+<br>
+<br>
+
+作品：The Rat Catcher's Daughter
+作者：K.J. Charles
+评分：4.4/5
+
+1893年伦敦，Christina小姐在歌舞厅驻唱为生，然而她却惹上了恶霸Kammy Grizzard，被迫签下卖身契，而此次Kammy竟然要强迫她给金主卖身。Christina表示自己为艺术写歌不会porn this way，结果整个人被Kammy的跟班抱起，然后即将被打断跟腱时，两个男飞贼突然出现，花下巨款解除了Christina的契约为她赎回自由身。面对眼前的两个新强盗，Christina惊恐万分，以为自己又被转卖到另一个恶霸手中，然而飞贼之一的Jerry却表示他们受好朋友Stan委托特意来救美。
+
+不相信Stan小kind不断的Christina开始在表演过程中寻找这个叫做Stan的陌生人，定位举止异常的观众，试图摸清他的企图，然而台下的Stan被Christina的眼神锁定后乱了方寸。原来Stan是一个身材矮小的波兰锁匠，他为了供家里的弟弟妹妹逃离🇷🇺的文化殖民外出念大学跑来伦敦当学徒赚钱，一个人扛下养家的重任，但六个弟妹的支出让他入不敷出，因此他还暗地里干着转卖赃物的勾当，帮助著名的飞贼二人组Lilywhite Boys转卖偷来的珠宝。然而多年的劳累让Stan心力憔悴，连河里都没有金子了，而只有在Christina小姐的表演时，他才能痴迷于对方的光彩和歌喉中忘记烦恼。但是他只想远远地观望Christina的表演，不敢奢望矮小平凡的自己靠近对方。
+
+Stan对Christina突然的异常行动很奇怪，一问Jerry才知道Jerry这个通讯录居然对美女口不择言，强盗救美后对Christina说"完全没有必要用身体回报Stan"，让不敢相信他的Christina担心不已，觉得Stan对她一定图谋不轨。为了不让Christina担忧，Stan鼓起勇气敲开了Christina的化妆室，却不想对方已经等候多时。然而一开门，站在自己面前的竟然是一个自我介绍叫Christopher的男子。Christopher一开始就首谈性侵，以为对方给自己赎身就是为了占有自己满足xp，结果Stan还不小心说漏嘴爆出了自己是飞贼二人组的同伙。在Stan表示自己痛恨和性有关的一切后，Christopher才终于放下心来接受了Stan的酒吧见面。
+
+经过漫长的等待，Stan终于找准机会开始跟Christopher聊天，两人开始聊各自的经历。Christopher在得知了Stan的身世后，也提到了他独特的性别认同，她只有在做Christina时才是真正的自己，眼前的Christopher只是一层伪装和社会上的保护色。原不指望五大三粗的Stan能理解，但Stan却对Christina的性别认同表现出了真诚的共情。Christina突然就哭了，说“Really？”她没想到会是这样子，她继续说，又哭了一次，抱了Stan两次。整个过程真的很不可思议，整个氛围都很低调，和Stan聊天就像和朋友说话一样。
+
+之后两人越走越近，Stan每次在Christina演出后都会来到她的化妆室，但腼腆的他却一直不敢有所行动，直到这天Christina主动开口，两个人才发现双方都是asexual，痛恨和性有关的一切，但Christina却询问Stan愿不愿意和她接吻。Stan踮起脚尖搂住Christina的肩膀，而Christina则低下头成为了Stan的初吻。两人一吻定情，然而却不知道来自Kammy的危险已经逼近...
