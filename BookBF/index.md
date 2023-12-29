@@ -1,5 +1,5 @@
 ## Book Boyfriend
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://i0.wp.com/thequeerreview.com/wp-content/uploads/2022/03/817cHlswyRL-1-1.jpg?fit=1566%2C879&ssl=1)
 <br>

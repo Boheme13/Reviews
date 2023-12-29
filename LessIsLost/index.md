@@ -1,5 +1,5 @@
 ## Less is Lost
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://www.dymocks.com.au/getmedia/84387d22-d44a-464f-9c87-8a53f5fcf4ec/AndrewSeanGreer_BlogThumb.jpg.aspx?width=1208&height=630&ext=.jpg)
 <br>

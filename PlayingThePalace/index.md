@@ -1,5 +1,5 @@
 ## Playing the Palace
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://hips.hearstapps.com/hmg-prod/images/playing-the-palace-1621273366.jpg?resize=1200:*)
 <br>

@@ -1,5 +1,5 @@
 ## The King of Infinite Space
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://images.squarespace-cdn.com/content/v1/553543bbe4b038e4672f2ed2/642f3338-d57b-4ac9-9e23-760392050fd1/TheKingofInfiniteSpace_CoverBanners_v6_+Facebook.jpg)
 <br>

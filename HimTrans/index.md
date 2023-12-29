@@ -1,5 +1,5 @@
 ## Him 翻译
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://i.loli.net/2021/09/12/4s9rqanJFghNZuH.jpg) <br>
 <br>

@@ -1,5 +1,5 @@
 ## Confetti Hearts
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp; <br>
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp; <br>
 ![avatar](https://cdn.amomama.com/0fa6784d9f740e445468b5516eebfaeb.jpg)
 <br/>
 <br/>

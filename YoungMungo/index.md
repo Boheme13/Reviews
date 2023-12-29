@@ -1,5 +1,5 @@
 ## Young Mungo
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 <br>
 <br>
 ![avatar](https://booksfromscotland.com/wp-content/uploads/2022/04/Young-Mungo-scaled.jpg)

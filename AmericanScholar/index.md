@@ -1,5 +1,5 @@
 ## American Scholar
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678060336i/123186229.jpg)
 <br>

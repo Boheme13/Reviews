@@ -1,5 +1,5 @@
 ## Hostile Takeover
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://www.kaamranhafeez.com/wp-content/uploads/2021/09/NYR-Sep-20.jpg)
 <br>

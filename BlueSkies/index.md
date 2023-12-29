@@ -1,5 +1,5 @@
 ## Blue Skies
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://upload.wikimedia.org/wikipedia/commons/6/67/Mulberry_Street_NYC_c1900_LOC_3g04637u_edit.jpg)
 

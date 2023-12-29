@@ -53,16 +53,16 @@ def main():
     print(urls[0])
     with open(output_path, 'a+') as output:
         for url in urls:
-            filedata = ""
+            if (url[2].find('.JPG') != -1 or url[2].find('.jpg') != -1 or url[2].find('.png') != -1):
+                continue
+            # filedata = ""
             # with open(url[2], 'r') as markdown:
             #     filedata = markdown.read()
             #     # str1 = "[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)"
-            #     str1 = "[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)"
-            #     filedata = filedata.replace(str1, "[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;")
+            #     str1 = "[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;"
+            #     filedata = filedata.replace(str1, "[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;")
             # with open(url[2], 'w') as file:
             #     file.write(filedata)
-            if (url[2].find('.JPG') != -1 or url[2].find('.jpg') != -1 or url[2].find('.png') != -1):
-                continue
             with open(url[2], 'r') as markdown:
                 lines = markdown.readlines()
                 book, output_str, keys = "", "", ""
@@ -93,7 +93,6 @@ def main():
                         if count < -0.1:
                             continue
                         count = int((count + 0.001) / 0.1) + 1
-                        print(count)
                         # print(book, count)
                         if count >= 7:
                             count = 3

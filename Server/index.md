@@ -1,5 +1,5 @@
 ## Server
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://media.newyorker.com/photos/64e7b9cfd9946db461924672/1:1/w_2560,h_2560,c_limit/Washington_Server_Novella_social.png)
 <br>

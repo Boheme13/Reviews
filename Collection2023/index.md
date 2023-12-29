@@ -1,5 +1,5 @@
 ## 2023阅读清单
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 ![avatar](https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTFDAULACJHIBF42V2KAIC6OHE.jpg)
 <br>
 <br>

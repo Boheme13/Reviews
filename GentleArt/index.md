@@ -1,5 +1,5 @@
 ## The Gentle Art of Fortune Hunting
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://unofficed.com/wp-content/uploads/2023/11/Markov-chain-unofcied-1024x759.png)
 <br>

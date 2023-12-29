@@ -1,5 +1,5 @@
 ## Borealis侦探事务所系列
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://mir-s3-cdn-cf.behance.net/project_modules/1400/56542f28485137.55c24dbbc698e.jpg)
 <br>

@@ -1,5 +1,5 @@
 ## The Mysteries of Pittsburgh
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/the-mysteries-of-pittsburgh-2009/EB20090409REVIEWS904099991AR.jpg)
 <br>

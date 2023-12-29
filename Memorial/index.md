@@ -1,5 +1,5 @@
 ## Memorial
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://img.theculturetrip.com/x/wp-content/uploads/2019/04/ia_0903_cityheaders_osaka_jiromiyata.jpg)
 <br>

@@ -1,5 +1,5 @@
 ## London Calling
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;<br><br>
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;<br><br>
 
 ![avatar](https://i.ebayimg.com/images/g/Qh4AAOSwMAxj90qe/s-l1600.jpg)
 <br>

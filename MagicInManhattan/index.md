@@ -1,5 +1,5 @@
 ## Magic in Manhattan Series
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://m.media-amazon.com/images/S/aplus-media/vc/c6b57c13-a367-4c7d-83a7-92b2cd2a5858.__CR0,0,970,300_PT0_SX970_V1___.jpg)
 <br>

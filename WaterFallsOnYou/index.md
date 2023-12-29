@@ -1,5 +1,5 @@
 ## 谎言之水从天而降 翻译
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![img](https://caninedaze.files.wordpress.com/2015/06/screenhunter_132-jun-30-15-54.jpg)
 

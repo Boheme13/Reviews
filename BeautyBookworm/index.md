@@ -1,5 +1,5 @@
 ## Beauty and the Bookworm
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://www.out.com/media-library/olivia-rodrigos-guts-album.jpg?id=36654165&width=1200&height=600&coordinates=0%2C39%2C0%2C39)
 <br>

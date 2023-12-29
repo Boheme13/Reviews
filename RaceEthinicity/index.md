@@ -1,5 +1,5 @@
 ## Race & Ethnicity
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 
 作品：各个族裔作品大全 <br>

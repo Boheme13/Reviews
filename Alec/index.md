@@ -1,5 +1,5 @@
 ## Alec
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 作品：Alec <br>
 作者：William di Canzio <br>

@@ -1,5 +1,5 @@
 ## Band Sinister
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://m.media-amazon.com/images/I/51AGjaMqTCL._SL500_.jpg)
 <br>

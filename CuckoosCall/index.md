@@ -1,5 +1,5 @@
 ## The Cuckoo’s Call
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![img](https://gayrmncereviews.files.wordpress.com/2021/11/rb-banner.png)
 

@@ -1,5 +1,5 @@
 ## Down in Flames
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641457005i/60044786.jpg)
 <br>

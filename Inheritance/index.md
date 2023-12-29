@@ -1,5 +1,5 @@
 ## The Inheritance
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 ![avatar](https://www.youngvic.org/sites/default/files/4_0_2.jpg)
 从左到右分别是Eric, Leo/Adam, Toby
 <br/>

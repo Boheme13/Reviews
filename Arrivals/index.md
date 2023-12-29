@@ -1,5 +1,5 @@
 ## Arrivals
-[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
+[回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 ![avatar](https://media.newyorker.com/photos/62bb774f3cff44f80d180095/1:1/w_1758,h_1758,c_limit/220711_r40665.jpg)
 <br>
