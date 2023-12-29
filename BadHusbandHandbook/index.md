@@ -3,6 +3,10 @@
 
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：The Bad Husband’s Handbook<br>
 作者：Reanna Pryce<br>
 评分：3.2/5<br>

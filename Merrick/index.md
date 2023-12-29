@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Merrick<br>
 作者：Claire Cray<br>
 评分：3.0/5

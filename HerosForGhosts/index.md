@@ -7,6 +7,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Heroes for Ghosts <br>
 作者：Jackie North <br>
 评分：3.4/5 <br>

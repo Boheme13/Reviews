@@ -4,6 +4,10 @@
 
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Fandom<br>
 作者：Eden Finley<br>
 评分：2.9/5<br>

@@ -5,6 +5,10 @@
 
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Jackdaw<br>
 作者：KJ Charles<br>
 评分：3.3/5<br>

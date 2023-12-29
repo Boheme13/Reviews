@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：His Royal Secret <br/>
 作者：Lilah Pace <br/>
 评分：4.5/5 <br>

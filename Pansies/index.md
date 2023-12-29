@@ -2,6 +2,10 @@
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 <br>
 
+<!-- 
+romance: True
+-->
+
 ![img](https://quicunquevult.com/wp-content/uploads/2021/07/Pansiesitalian.png)
 
 作品：Pansies<br>

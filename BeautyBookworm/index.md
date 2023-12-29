@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Beauty and the Bookworm<br>
 作者：Nick Pageant<br>
 评分：4.0/5<br>

@@ -4,6 +4,10 @@
 <br/>
 <br/>
 
+<!-- 
+romance: True
+-->
+
 作品：Confetti Hearts<br/>
 作者：Lily Morton<br/>
 评分：3.5/5<br/>

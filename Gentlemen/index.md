@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Gentlemen Series<br>
 评分：4.8/5
 关键词：伦敦，贵族，摄政时代

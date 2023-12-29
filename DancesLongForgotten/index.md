@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Dances Long Forgotten<br>
 作者：Ruby Moone<br>
 评分：0.99<br>

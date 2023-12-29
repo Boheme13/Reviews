@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Band Sinister<br>
 作者：K.J. Charles<br>
 评分：3.3/5<br>

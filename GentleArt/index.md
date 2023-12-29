@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：The Gentle Art of Fortune Hunting <br>
 作者：KJ Charles <br>
 评分：4.0/5 <br>

@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：The Charm Offensive<br>
 作者：Alison Cochrun<br>
 评分：4.3/5<br>

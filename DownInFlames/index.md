@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Down in Flames<br>
 作者：Parker St. John<br>
 评分：3.5/5<br>

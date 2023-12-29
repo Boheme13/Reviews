@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 
 作品：Book Boyfriend <br>
 作者：Kris Ripper <br>

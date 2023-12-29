@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Hostile Takeover<br>
 作者：Lucy Lennox<br>
 评分：3.9/5<br>

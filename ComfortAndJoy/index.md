@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 
 作品：Comfort and Joy <br>
 作者：Jim Grimsley <br>

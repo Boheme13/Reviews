@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Lucky Charm<br>
 作者：Chase Verity<br>
 评分：3.0/5<br>

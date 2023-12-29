@@ -3,7 +3,7 @@ import math
 import json
 
 class Book:
-    def __init__(self, path, title, skip, rating=-1, keywords="", author="", img_url=""):
+    def __init__(self, path, title, skip, rating=-1, keywords="", author="", img_url="", romance=False):
         self.path = path
         self.title = title
         self.skip = skip
@@ -11,6 +11,7 @@ class Book:
         self.keywords = keywords
         self.author = author
         self.img_url = img_url
+        self.romance = romance
     
     def display_info(self):
         info = f"title: {self.title}\n rating: {self.rating}\n keywords: {self.keywords}\n img_url: {self.img_url} \n{self.path}"
@@ -66,7 +67,7 @@ def main():
             with open(url[2], 'r') as markdown:
                 lines = markdown.readlines()
                 book, output_str, keys = "", "", ""
-                find_book, find_rate, find_key, add_img, find_author = False, False, False, False, False
+                find_book, find_rate, find_key, add_img, find_author, find_romance = False, False, False, False, False, False
                 count, rating = 0, -1
                 author = ""
                 img_url, find_img = "", False
@@ -85,6 +86,8 @@ def main():
                         index = line.find('<')
                         author = line[3:index]
                         find_author = True
+                    if line.find("romance: True") != -1 and not find_romance:
+                        find_romance = True
                     if line.find("评分") != -1 and line.find('/') != -1 and not find_rate:
                         index = line.find('/')
                         rating = round(float(line[3:index]), 2)
@@ -122,7 +125,7 @@ def main():
                     output.write(f"![avatar]({img_url})<br>\n")
                     # output.write("\n <br> \n")
                 output.write("\n\n")
-                books.append(Book(path=url[1], title=book, skip=False, rating=rating, keywords=keys, author=author, img_url=img_url))
+                books.append(Book(path=url[1], title=book, skip=False, rating=rating, keywords=keys, author=author, img_url=img_url, romance=find_romance))
     # print(books[2].display_info())
     
 
@@ -168,7 +171,8 @@ def main():
             'rating': book.rating, 
             'keywords': book.keywords, 
             'author': book.author, 
-            'img_url': img_url
+            'img_url': img_url, 
+            'romance': book.romance
         })
     json_data = json.dumps(books_data, indent=2, ensure_ascii=False)
 

@@ -4,6 +4,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Fake Out<br>
 作者：Eden Finley<br>
 评分：3.3/5<br>

@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 
 作品：The Executive Office系列 <br>
 作者：Tal Bauer <br>

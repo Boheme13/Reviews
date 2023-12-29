@@ -6,6 +6,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Seducing Professor Coyle<br>
 作者：Darien Cox<br>
 评分：4.0/5<br>

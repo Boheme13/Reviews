@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Mended with Gold<br>
 作者：Lee Welch<br>
 评分：3.7/5<br>

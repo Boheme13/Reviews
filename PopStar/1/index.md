@@ -4,6 +4,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Pop Star<br>
 作者：Eden Finley<br>
 评分：3.0/5<br>

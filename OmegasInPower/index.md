@@ -3,6 +3,10 @@
 
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Omegas in Power<br>
 作者：Sai Fox<br>
 评分：3.4/5<br>

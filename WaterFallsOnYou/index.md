@@ -6,6 +6,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：The Water that Falls On You From Nowhere翻译<br>
 评分：4.1/5<br>
 

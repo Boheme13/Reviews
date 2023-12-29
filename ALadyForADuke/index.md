@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：A Lady for a Duke<br>
 作者：Alexis Hall<br>
 评分：4.4/5<br>

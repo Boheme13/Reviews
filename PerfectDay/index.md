@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：Perfect Day<br>
 作者：Sally Malcolm<br>
 评分：3.2/5<br>

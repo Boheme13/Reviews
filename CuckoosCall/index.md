@@ -5,6 +5,10 @@
 
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：The Cuckoo’s Call<br>
 作者：Lily Morton<br>
 评分：3.2/5<br>

@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<!-- 
+romance: True
+-->
+
 作品：The Winkler Case <br>
 作者：David Greene<br>
 评分：3.6/5<br>
