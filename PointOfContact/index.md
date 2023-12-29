@@ -1,6 +1,8 @@
 ## Point of Contact
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
+![img](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516842773i/36625948.jpg)
+
 <br>
 <br>
 

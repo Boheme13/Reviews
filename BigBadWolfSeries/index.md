@@ -1,7 +1,7 @@
 ## 大坏狼系列
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
-![avatar]()
+![avatar](https://pbs.twimg.com/media/FmSLUUGagAATEDI?format=jpg&name=large)
 <br>
 <br>
 

@@ -1,7 +1,7 @@
 ## When You Were Me
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
-![avatar]()
+![avatar](https://prodimage.images-bn.com/pimages/9781545490389_p0_v1_s1200x630.jpg)
 <br>
 <br>
 

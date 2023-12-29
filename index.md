@@ -6,6 +6,9 @@
 
 [A Lady for a Duke](https://boheme13.github.io/Reviews/ALadyForADuke/) ⭐️⭐️<br>
 关键词：跨性别；摄政时代；昔日竹马贵族战友变性；性别规范
+ <br><br> 
+![avatar](https://i0.wp.com/beforewegoblog.com/wp-content/uploads/2023/02/A-Lady-for-a-Duke-blog-header.png?fit=1645%2C861&ssl=1)<br>
+
 
 [A Little Life ](https://boheme13.github.io/Reviews/ALittleLife/) ⭐️⭐️⭐️<br>
 关键词：史上最悲伤的小说；虐待关系；友谊；纯男性关系
@@ -60,6 +63,9 @@
 
 [Big Bad Wolf Series](https://boheme13.github.io/Reviews/BigBadWolfSeries/) ⭐️⭐️<br>
 关键词：人狼；FBI；探案；强强
+ <br><br> 
+![avatar](https://pbs.twimg.com/media/FmSLUUGagAATEDI?format=jpg&name=large)<br>
+
 
 [Blue Skies](https://boheme13.github.io/Reviews/BlueSkies/) <br>
 关键词：建筑文物保护运动家 v.s. 房地产霸总，镀金年代/现代，曼哈顿，时间穿越，MF/MM
@@ -168,6 +174,9 @@
 
 [His Royal Secret ](https://boheme13.github.io/Reviews/HisRoyal/) ⭐️⭐️<br>
 关键词：英国王子；德国记者；皇室
+ <br><br> 
+![avatar](./HisRoyal/cover.png)<br>
+
 
 [Honeytrap ](https://boheme13.github.io/Reviews/Honeytrap/) ⭐️⭐️<br>
 关键词：冷战；美苏；特工；传奇式的三十年感情羁绊；三部曲 
@@ -204,6 +213,9 @@
 
 [John Chu短篇小说合集](https://boheme13.github.io/Reviews/JohnChu/) ⭐️⭐️<br>
 关键词：科幻，短篇，华裔
+ <br><br> 
+![avatar](https://m.media-amazon.com/images/I/51q67NKoX4L.jpg)<br>
+
 
 [KC Trilogy](https://boheme13.github.io/Reviews/KCTriology/) <br>
 关键词：coming of age, 棒球运动员 & 制作人, 流浪, 22年虐恋
@@ -321,6 +333,9 @@
 
 [Proper Scoundrels](https://boheme13.github.io/Reviews/ProperScoundrels/) ⭐️⭐️<br>
 关键词：善待你的敌人；嘴贱腹黑闷骚英国子爵 & 西班牙奶狗血族法师
+ <br><br> 
+![avatar](https://i0.wp.com/dearauthor.com/wp-content/uploads/2022/01/57831165._SY475_.jpg?resize=350%2C200&ssl=1)<br>
+
 
 [各个族裔作品大全 ](https://boheme13.github.io/Reviews/RaceEthinicity/) ⭐️⭐️<br>
 关键词：15+不同族裔的酷儿作品

@@ -1,7 +1,7 @@
 ## A Lady for a Duke
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
-![avatar]()
+![avatar](https://i0.wp.com/beforewegoblog.com/wp-content/uploads/2023/02/A-Lady-for-a-Duke-blog-header.png?fit=1645%2C861&ssl=1)
 <br>
 <br>
 

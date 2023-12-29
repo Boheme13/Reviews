@@ -93,12 +93,21 @@
 
 [His Royal Secret ](https://boheme13.github.io/Reviews/HisRoyal/) Rating: 4.5<br>
 关键词：英国王子；德国记者；皇室
+ <br><br> 
+![img](.././HisRoyal/cover.png)<br>
+
 
 [Proper Scoundrels](https://boheme13.github.io/Reviews/ProperScoundrels/) Rating: 4.5<br>
 关键词：善待你的敌人；嘴贱腹黑闷骚英国子爵 & 西班牙奶狗血族法师
+ <br><br> 
+![img](https://i0.wp.com/dearauthor.com/wp-content/uploads/2022/01/57831165._SY475_.jpg?resize=350%2C200&ssl=1)<br>
+
 
 [Big Bad Wolf Series](https://boheme13.github.io/Reviews/BigBadWolfSeries/) Rating: 4.5<br>
 关键词：人狼；FBI；探案；强强
+ <br><br> 
+![img](https://pbs.twimg.com/media/FmSLUUGagAATEDI?format=jpg&name=large)<br>
+
 
 [Downtime ](https://boheme13.github.io/Reviews/Downtime/) Rating: 4.4<br>
 关键词：古风，穿越，现代->1880s伦敦，美国FBI & 英国灵媒，开膛手杰克
@@ -114,9 +123,15 @@
 
 [John Chu短篇小说合集](https://boheme13.github.io/Reviews/JohnChu/) Rating: 4.4<br>
 关键词：科幻，短篇，华裔
+ <br><br> 
+![img](https://m.media-amazon.com/images/I/51q67NKoX4L.jpg)<br>
+
 
 [A Lady for a Duke](https://boheme13.github.io/Reviews/ALadyForADuke/) Rating: 4.4<br>
 关键词：跨性别；摄政时代；昔日竹马贵族战友变性；性别规范
+ <br><br> 
+![img](https://i0.wp.com/beforewegoblog.com/wp-content/uploads/2023/02/A-Lady-for-a-Duke-blog-header.png?fit=1645%2C861&ssl=1)<br>
+
 
 [Playing the Palace](https://boheme13.github.io/Reviews/PlayingThePalace/) Rating: 4.4<br>
 关键词：🇬🇧王子爱上我🇺🇸，喜剧，英国世男一爱上新泽西素人
@@ -144,9 +159,15 @@
 
 [Lily Morton系列](https://boheme13.github.io/Reviews/LilyMortonSeries/) Rating: 4.2<br>
 关键词：英国男同宇宙；posh；清爽幽默风
+ <br><br> 
+![img](https://i0.wp.com/joyfullyjay.com/wp-content/uploads/2018/07/Risk-Taker-RDB-banner.jpg?resize=450%2C166&ssl=1)<br>
+
 
 [Comfort and Joy ](https://boheme13.github.io/Reviews/ComfortAndJoy/) Rating: 4.2<br>
 关键词：千禧年；医院；深柜老钱医生爱上勤杂管理员；疾病；HE
+ <br><br> 
+![img](https://static01.nyt.com/images/2020/06/04/fashion/04VIRUS-FIRSTPERSON-BOYFRIEND/04VIRUS-FIRSTPERSON-BOYFRIEND-articleLarge.jpg?quality=75&auto=webp&disable=upscale)<br>
+
 
 [The Second Footman](https://boheme13.github.io/Reviews/SecondFootman/) Rating: 4.2<br>
 关键词：法国文学；男仆上位；心机

@@ -3,6 +3,8 @@
 <br>
 <br>
 
+![img](https://i0.wp.com/joyfullyjay.com/wp-content/uploads/2018/07/Risk-Taker-RDB-banner.jpg?resize=450%2C166&ssl=1)
+
 作品：Lily Morton系列<br>
 评分：4.2/5<br>
 

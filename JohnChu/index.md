@@ -1,6 +1,8 @@
 ## John Chu短篇小说合集
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
+![img](https://m.media-amazon.com/images/I/51q67NKoX4L.jpg)
+
 <br>
 <br>
 

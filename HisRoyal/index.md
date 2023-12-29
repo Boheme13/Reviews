@@ -1,7 +1,7 @@
 ## His Royal 系列
 [回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;
 
-![avatar]()
+![avatar](./cover.png)
 <br>
 <br>
 

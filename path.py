@@ -61,7 +61,7 @@ def main():
             #     filedata = filedata.replace(str1, "[回到上一页](https://boheme13.github.io/Reviews/)  &nbsp;&nbsp;")
             # with open(url[2], 'w') as file:
             #     file.write(filedata)
-            if (url[2].find('.JPG') != -1 or url[2].find('.jpg') != -1):
+            if (url[2].find('.JPG') != -1 or url[2].find('.jpg') != -1 or url[2].find('.png') != -1):
                 continue
             with open(url[2], 'r') as markdown:
                 lines = markdown.readlines()
