@@ -1,0 +1,12 @@
+{
+    "books": [
+        {
+            "title": "Book 1", 
+            "keywords": "key1, key2"
+        }, 
+        {
+            "title": "Book 2", 
+            "keywords": "key3, key4"
+        }
+    ]
+}

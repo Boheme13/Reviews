@@ -130,7 +130,7 @@ def main():
     books = [book for book in books if book.path != 'https://boheme13.github.io/Reviews/Sorting/']
     books.sort(key=lambda book: (book.rating, -word_to_number(book.title)), reverse=True)
 
-    # print(books[-1].display_info())
+    print(books[1].display_info())
     
     with open(output_path, 'a+') as output:
         for book in books:
