@@ -1,7 +1,7 @@
 ## Server
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
-![avatar](./Washington_Server_Novella_social%20(1).jpg)
+![avatar](./cover.jpg)
 <br>
 <br>
 

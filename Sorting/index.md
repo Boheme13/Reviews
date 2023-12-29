@@ -73,7 +73,7 @@
 [Server](https://boheme13.github.io/Reviews/Server/) Rating: 4.6<br>
 关键词：大阪，旅日美国人，closure
  <br><br> 
-![img](.././Server/Washington_Server_Novella_social%20(1)<br>
+![img](.././Server/cover.jpg)<br>
 
 
 [Incomplete Proof 翻译](https://boheme13.github.io/Reviews/IncompleteProof/) Rating: 4.6<br>

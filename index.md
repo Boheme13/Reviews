@@ -367,7 +367,7 @@
 [Server](https://boheme13.github.io/Reviews/Server/) ⭐️⭐️⭐️<br>
 关键词：大阪，旅日美国人，closure
  <br><br> 
-![avatar](./Server/Washington_Server_Novella_social%20(1)<br>
+![avatar](./Server/cover.jpg)<br>
 
 
 [族裔作品大全 ](https://boheme13.github.io/Reviews/RaceEthinicity/) Rating: 4.5](https://boheme13.github.io/Reviews/Sorting/) <br>
