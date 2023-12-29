@@ -1,20 +1,29 @@
 [
   {
-    "path": "https://boheme13.github.io/Reviews/10ThingsNeverHappened/",
-    "title": "10 Things that Never Happened",
+    "path": "https://boheme13.github.io/Reviews/Inheritance/",
+    "title": "The Inheritance ",
     "skip": false,
-    "rating": 4.2,
-    "keywords": "关键词：圣诞，romcom，被炒后对老板假装失忆，grumpy/sunshine, forced proximity",
-    "author": "Alexis Hall",
-    "img_url": "./10ThingsNeverHappened/cover.jpg"
+    "rating": 5.0,
+    "keywords": "关键词：舞台剧；福斯特；2016年纽约；超现实生死对话；三代人；HIV；里根/特朗普时代",
+    "author": "Matthew Lopez ",
+    "img_url": "https://www.youngvic.org/sites/default/files/4_0_2.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/ALadyForADuke/",
-    "title": "A Lady for a Duke",
+    "path": "https://boheme13.github.io/Reviews/PeopleInTheTrees/",
+    "title": "The People in the Trees ",
     "skip": false,
-    "rating": 4.4,
-    "keywords": "关键词：跨性别；摄政时代；昔日竹马贵族战友变性；性别规范",
-    "author": "Alexis Hall",
+    "rating": 4.9,
+    "keywords": "关键词：1：独白体，男版洛丽塔，不可靠叙事者；2：长生不老，土著岛民，学术帝国殖民主义；共同关键词：权力失衡，不对等关系",
+    "author": "Hanya Yanagihara",
+    "img_url": "https://i.ibb.co/rdv7pj9/IMG-1930.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Gentlemen/LondonSeries/",
+    "title": "London Series",
+    "skip": false,
+    "rating": 4.8,
+    "keywords": "关键词：伦敦，贵族，维多利亚时代",
+    "author": "",
     "img_url": ""
   },
   {
@@ -27,22 +36,40 @@
     "img_url": "https://images.squarespace-cdn.com/content/v1/60a7bb6642d7b6010698bdcc/1669290431460-W1X5ETBW21TZ0RS3VJB0/A+Little+Life+PR_Group_01.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/APlaceCalledWinter/",
-    "title": "A Place Called Winter",
+    "path": "https://boheme13.github.io/Reviews/Gentlemen/",
+    "title": "Gentlemen Series",
     "skip": false,
-    "rating": 3.0,
-    "keywords": "关键词：英格兰->加拿大；拓荒；自我认同",
-    "author": "Patrick Gale",
-    "img_url": "https://i.ytimg.com/vi/hDh4EEh6N1E/maxresdefault.jpg"
+    "rating": 4.8,
+    "keywords": "关键词：伦敦，贵族，摄政时代",
+    "author": "KJ Charles ",
+    "img_url": "https://cdna.artstation.com/p/assets/images/images/017/753/690/large/harry-grace-all-3-covers.jpg?1557227031"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/Alec/",
-    "title": "Alec ",
+    "path": "https://boheme13.github.io/Reviews/MagicInManhattan/",
+    "title": "Magic in Manhattan Series",
     "skip": false,
-    "rating": 3.5,
-    "keywords": "关键词：莫里斯的情人；续写",
-    "author": "William di Canzio ",
-    "img_url": "https://i1.wp.com/epgn.com/wp-content/uploads/2021/07/Alc.jpg?fit=1200%2C748&ssl=1"
+    "rating": 4.8,
+    "keywords": "关键词：奇幻；魔法；咆哮二十年；爵士年代",
+    "author": "Allie Therin",
+    "img_url": "https://m.media-amazon.com/images/S/aplus-media/vc/c6b57c13-a367-4c7d-83a7-92b2cd2a5858.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/LondonCalling/",
+    "title": "Boyfriend/Husband Material",
+    "skip": false,
+    "rating": 4.8,
+    "keywords": "关键词：都市丽人喜剧；伦敦；假男友变真男友",
+    "author": "Alexis Hall",
+    "img_url": "https://i.ebayimg.com/images/g/Qh4AAOSwMAxj90qe/s-l1600.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Zone8/",
+    "title": "Zone Eight (From To Paradise) ",
+    "skip": false,
+    "rating": 4.8,
+    "keywords": "关键词：疫情，封控，末日极权，反乌托邦，婚姻/亲情亲密关系",
+    "author": "Hanya Yanagihara",
+    "img_url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F39deef50-626b-11ec-b5e6-0d64a8c5ca0d.jpg?crop=2667%2C1500%2C0%2C0"
   },
   {
     "path": "https://boheme13.github.io/Reviews/AmazingAdventuresOfKC/",
@@ -54,58 +81,13 @@
     "img_url": "https://dirtyplusdivine.files.wordpress.com/2019/07/escapist5_lg.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/AmericanScholar/",
-    "title": "American Scholar",
+    "path": "https://boheme13.github.io/Reviews/Less/",
+    "title": "Less ",
     "skip": false,
-    "rating": 3.4,
-    "keywords": "关键词：metafiction，三代美国学者，麦肯锡/里根/川普时代，文学评论，大学学术",
-    "author": "Patrick E. Horrigan",
-    "img_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678060336i/123186229.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/AnHonestMan/",
-    "title": "An Honest Man",
-    "skip": false,
-    "rating": 4.1,
-    "keywords": "关键词：柏林墙；西德；间谍；生活西化；HE；coming of age",
-    "author": "Ben Fergusson",
-    "img_url": "https://hachette.imgix.net/books/9780349142579.jpg?auto=compress&w=1600&h=900&fit=crop&fm=jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Anterograde/",
-    "title": "Anterograde",
-    "skip": false,
-    "rating": 3.0,
-    "keywords": "关键词：缓存式失忆症；医生 & 医生；每天醒来都发现已婚crush在床上；初恋每一天",
-    "author": "Kallysten",
-    "img_url": "https://m.media-amazon.com/images/M/MV5BZjI2NGY4YTYtNTcwOC00NmMxLTgyY2YtYjI5MDE4MzUxMjg0XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/AquaFollies/",
-    "title": "Aqua Follies ",
-    "skip": false,
-    "rating": 3.4,
-    "keywords": "关键词：战后保守年代；西雅图；水上芭蕾；法学生爱上小号手",
-    "author": "Liv Rancourt ",
-    "img_url": "https://cdn.hourdetroit.com/wp-content/uploads/sites/20/2019/08/aqua-follies.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Arrivals/",
-    "title": "Arrivals",
-    "skip": false,
-    "rating": 2.8,
-    "keywords": "关键词：纽约客短篇；演员 & 素人；后疫情时代",
-    "author": "Bryan Washington",
-    "img_url": "https://media.newyorker.com/photos/62bb774f3cff44f80d180095/1:1/w_1758,h_1758,c_limit/220711_r40665.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/ArrowsFlight/",
-    "title": "An Arrow’s Flight",
-    "skip": false,
-    "rating": 3.2,
-    "keywords": "关键词：希腊神话现代新编；阿喀琉斯之子；特洛伊战争；男妓；反英雄叙事；HIV潮",
-    "author": "Mark Merlis",
-    "img_url": "https://www.worldhistory.org/img/c/p/1200x627/14193.jpg"
+    "rating": 4.7,
+    "keywords": "关键词：喜剧Comedy，文风轻散愉快，为了躲前男友婚礼去环球旅行，奥德赛英雄史诗",
+    "author": "Andrew Sean Greer ",
+    "img_url": "https://hips.hearstapps.com/hmg-prod/images/es-042318-andrew-sean-greer-pulitzer-prize-1524509921.jpg"
   },
   {
     "path": "https://boheme13.github.io/Reviews/Audition/",
@@ -117,31 +99,67 @@
     "img_url": "https://media.newyorker.com/photos/5ff74dd3ca8142b226b81b5f/2:1/w_2007,h_1003,c_limit/210118_r37730_rd.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/BadHusbandHandbook/",
-    "title": "The Bad Husband’s Handbook",
+    "path": "https://boheme13.github.io/Reviews/Farrell/",
+    "title": "Farrell Covington and the Limits of Style",
     "skip": false,
-    "rating": 3.2,
-    "keywords": "关键词：丧偶式育儿；离婚冷静期；逆向约会",
-    "author": "Reanna Pryce",
+    "rating": 4.7,
+    "keywords": "关键词：1973-2023五十年爱情史诗，罗曼喜剧，半自传，坎普风，疯批老钱公子 & 百老汇剧作人",
+    "author": "Paul Rudnick",
+    "img_url": "https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Ftco%2Fimages%2FHuck%2FLeonard-Fink-1-e1615195642553.jpg%3F05-05&w=2048&q=75"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Server/",
+    "title": "Server",
+    "skip": false,
+    "rating": 4.6,
+    "keywords": "关键词：大阪，旅日美国人，closure",
+    "author": "Bryan Washington",
+    "img_url": "https://media.newyorker.com/photos/64e7b9cfd9946db461924672/1:1/w_2560,h_2560,c_limit/Washington_Server_Novella_social.png"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/IncompleteProof/",
+    "title": "Incomplete Proof 翻译",
+    "skip": false,
+    "rating": 4.6,
+    "keywords": "关键词：分手后破镜重圆；数学证明 = 时装走秀；P != NP",
+    "author": "",
+    "img_url": "https://imgs.xkcd.com/comics/travelling_salesman_problem.png"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/RaceEthinicity/",
+    "title": "各个族裔作品大全 ",
+    "skip": false,
+    "rating": 4.5,
+    "keywords": "关键词：15+不同族裔的酷儿作品",
+    "author": "我怀疑取材自作者本人生活，作者(美国白男)在爱达荷州读大学时认识了中国留学生，后来两人移民加拿大温哥华现在结婚了。这本书封面致敬了中苏友好时期的海报造型，故事讲的是生活在爱达荷州的白人少年Niko和华裔Thomas青梅竹马，两人原本照着既定的轨迹生活，高中即将毕业，和女孩约会，在风气保守的小镇安好度过平静的时光。然而随着性意识在成年前的觉醒，Niko和Thomas都在对方身上发现了前所未有的吸引力，一方面从未探索过自己性取向的两人对突如其来的情感倍感迷茫，另一方面，周围保守的风气和Thomas的中国父母也是外部压力",
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/BandSinister/",
-    "title": "Band Sinister",
+    "path": "https://boheme13.github.io/Reviews/RobertRodi/",
+    "title": "Robert Rodi系列",
     "skip": false,
-    "rating": 3.3,
-    "keywords": "关键词：古风；哥特；前工革英式田园牧歌；小白兔闯狼巢；善待你的敌人",
-    "author": "K.J. Charles",
-    "img_url": "https://m.media-amazon.com/images/I/51AGjaMqTCL._SL500_.jpg"
+    "rating": 4.5,
+    "keywords": "关键词：男同comedy，90年代，逼飞奶炸；深柜社畜被迫逼弯做直却遇真命天子；直女爱上gay蜜不惜黑白通吃只为拆散对方；男宠撕逼争宠导演老男人；严肃律师意外找到双胞胎变装皇后兄弟",
+    "author": "",
+    "img_url": "https://ksr-ugc.imgix.net/assets/011/491/176/b382e955b89d636ce1afd087a659fc30_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1463683501&auto=format&frame=1&q=92&s=54d5697d296bd0eac1c823c751ed85de"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/BeautyBookworm/",
-    "title": "Beauty and the Bookworm",
+    "path": "https://boheme13.github.io/Reviews/HisRoyal/",
+    "title": "His Royal Secret ",
     "skip": false,
-    "rating": 4.0,
-    "keywords": "关键词：GUTS🟣，餐券男 & 充实逼电筒",
-    "author": "Nick Pageant",
-    "img_url": "https://www.out.com/media-library/olivia-rodrigos-guts-album.jpg?id=36654165&width=1200&height=600&coordinates=0%2C39%2C0%2C39"
+    "rating": 4.5,
+    "keywords": "关键词：英国王子；德国记者；皇室",
+    "author": "Lilah Pace ",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/ProperScoundrels/",
+    "title": "Proper Scoundrels",
+    "skip": false,
+    "rating": 4.5,
+    "keywords": "关键词：善待你的敌人；嘴贱腹黑闷骚英国子爵 & 西班牙奶狗血族法师",
+    "author": "Allie Therin",
+    "img_url": ""
   },
   {
     "path": "https://boheme13.github.io/Reviews/BigBadWolfSeries/",
@@ -153,58 +171,49 @@
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/BlueSkies/",
-    "title": "Blue Skies",
+    "path": "https://boheme13.github.io/Reviews/Downtime/",
+    "title": "Downtime ",
     "skip": false,
-    "rating": 3.6,
-    "keywords": "关键词：建筑文物保护运动家 v.s. 房地产霸总，镀金年代/现代，曼哈顿，时间穿越，MF/MM",
-    "author": "Tamara Allen",
+    "rating": 4.4,
+    "keywords": "关键词：古风，穿越，现代->1880s伦敦，美国FBI & 英国灵媒，开膛手杰克",
+    "author": "Tamara Allen ",
+    "img_url": "https://static01.nyt.com/images/2019/04/21/sunday-review/21wittmeyer/21wittmeyer-superJumbo.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Honeytrap/",
+    "title": "Honeytrap ",
+    "skip": false,
+    "rating": 4.4,
+    "keywords": "关键词：冷战；美苏；特工；传奇式的三十年感情羁绊；三部曲 ",
+    "author": "Aster Glenn Gray ",
+    "img_url": "https://townsquare.media/site/442/files/2015/06/The-Man-From-UNCLE-trailer.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/JohnChu/",
+    "title": "John Chu短篇小说合集",
+    "skip": false,
+    "rating": 4.4,
+    "keywords": "关键词：科幻，短篇，华裔",
+    "author": "作者介",
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/BookBF/",
-    "title": "Book Boyfriend ",
+    "path": "https://boheme13.github.io/Reviews/ALadyForADuke/",
+    "title": "A Lady for a Duke",
     "skip": false,
-    "rating": 3.7,
-    "keywords": "关键词：metafiction；诺桑觉寺改写",
-    "author": "Kris Ripper ",
-    "img_url": "https://i0.wp.com/thequeerreview.com/wp-content/uploads/2022/03/817cHlswyRL-1-1.jpg?fit=1566%2C879&ssl=1"
+    "rating": 4.4,
+    "keywords": "关键词：跨性别；摄政时代；昔日竹马贵族战友变性；性别规范",
+    "author": "Alexis Hall",
+    "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/BookOfSalt/",
-    "title": "The Book of Salt ",
+    "path": "https://boheme13.github.io/Reviews/PlayingThePalace/",
+    "title": "Playing the Palace",
     "skip": false,
-    "rating": 4.0,
-    "keywords": "关键词：越南厨师；巴黎；后殖民主义；回忆录体虚构小说",
-    "author": "Monique Truong",
-    "img_url": "https://i.ibb.co/X7QR4LL/IMG-1700.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Borealis/",
-    "title": "Borealis侦探事务所系列",
-    "skip": false,
-    "rating": 3.8,
-    "keywords": "关键词：私家侦探，暗恋变恋人，体型差，长系列",
-    "author": "会杀人案：在一年一度的英耽作者集会上，一个知名作家被当场毒死。这部书是全系列最轻松的一本，和主线没太大关系",
-    "img_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/56542f28485137.55c24dbbc698e.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/CannoliSeries/",
-    "title": "Fireman’s Carry (短篇前传)",
-    "skip": false,
-    "rating": 3.0,
-    "keywords": "关键词：卡卡家族；意大利雕塑般侧颜；阳肛四兄弟；消防员",
-    "author": "Eli Easton",
-    "img_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675279324i/95503979.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/CarpetWeaver/",
-    "title": "The Carpet Weaver ",
-    "skip": false,
-    "rating": 4.0,
-    "keywords": "关键词：七十年代阿富汗；穆斯林竹马禁忌之恋；手工艺；偷渡；监狱逃生；美国重逢",
-    "author": "Nemat Sadat ",
-    "img_url": "https://dz01iyojmxk8t.cloudfront.net/wp-content/uploads/2019/09/09133915/FB-the-carpet-weaver-by-nemat-sadat-book-cover.jpg"
+    "rating": 4.4,
+    "keywords": "关键词：🇬🇧王子爱上我🇺🇸，喜剧，英国世男一爱上新泽西素人",
+    "author": "Paul Rudnick",
+    "img_url": "https://hips.hearstapps.com/hmg-prod/images/playing-the-palace-1621273366.jpg?resize=1200:*"
   },
   {
     "path": "https://boheme13.github.io/Reviews/CharmedOffensive/",
@@ -216,193 +225,13 @@
     "img_url": "https://images.squarespace-cdn.com/content/v1/5f80d42d7b438076f3238c47/1625774698994-8MCA52DV7D44Y1G1GBDR/image-asset.jpeg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/CinderellaWaltz/",
-    "title": "The Cinderella Waltz",
+    "path": "https://boheme13.github.io/Reviews/MadonnaOfBolton/",
+    "title": "The Madonna of Bolton",
     "skip": false,
-    "rating": 3.0,
-    "keywords": "关键词：纽约客短篇；婚姻；灰姑娘心理",
-    "author": "Ann Beattie",
-    "img_url": "https://cdn.britannica.com/17/187517-050-B8CCBE7D/Ann-Beattie.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Collection2023/",
-    "title": "2023扫文大全",
-    "skip": false,
-    "rating": -1,
-    "keywords": "关键词：70+本书扫文",
-    "author": "是中篇，只有其他小说的三分之一那么长，但情节却麻雀虽小五脏俱全，其中描绘性的语言尤其出色，作者有个创意写作的硕士学位，这篇小说的遣词造句尤其是前半部分读起来打磨感十足(非贬义)，描绘性语言很美很细微，读起来让我感觉有舒缓平静内心的效果。男主曾是战地记者，在目睹同事被炸死后选择隐居到新西兰小镇，在这里他遇到了同样有PTSD的一个少年，两个fxcked-up、内向但又内心温柔善良的人就这样开始慢慢交",
-    "img_url": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTFDAULACJHIBF42V2KAIC6OHE.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/ComfortAndJoy/",
-    "title": "Comfort and Joy ",
-    "skip": false,
-    "rating": 4.2,
-    "keywords": "关键词：千禧年；医院；深柜老钱医生爱上勤杂管理员；疾病；HE",
-    "author": "Jim Grimsley ",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/ConfettiHearts/",
-    "title": "Confetti Hearts",
-    "skip": false,
-    "rating": 3.5,
-    "keywords": "关键词：老男人；先婚后爱；知三当三；一婚五离；婚礼策划；风雪夜酒店",
-    "author": "Lily Morton",
-    "img_url": "https://cdn.amomama.com/0fa6784d9f740e445468b5516eebfaeb.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/CuckoosCall/",
-    "title": "The Cuckoo’s Call",
-    "skip": false,
-    "rating": 3.2,
-    "keywords": "关键词：老男人；意大利雕塑般侧颜；首谈性亲；古驰之家酒店版；家有一老如有一宝",
-    "author": "Lily Morton",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/DancesLongForgotten/",
-    "title": "Dances Long Forgotten",
-    "skip": false,
-    "rating": -1,
-    "keywords": "关键词：中篇，五雷轰顶，逼飞奶炸，摄政时代，竟生出个同性恋宝宝，睡亲哥情人，亲哥变亲爹",
-    "author": "Ruby Moone",
-    "img_url": "https://www.anniesreadingtips.com/uploads/8/6/9/0/86907938/published/dances-long-forgotten-1.jpg?1635013042"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Dorian/",
-    "title": "Dorian",
-    "skip": false,
-    "rating": 0.0,
-    "keywords": "关键词：道林格雷重写；80s；三角关系；三毒；艾滋潮；戴安娜王妃",
-    "author": "Will Self",
-    "img_url": "https://maudtaberthomas.files.wordpress.com/2010/07/dorian-gray-ii.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/DownInFlames/",
-    "title": "Down in Flames",
-    "skip": false,
-    "rating": 3.5,
-    "keywords": "关键词：竞技骑牛；打工弟爱上鳏夫老板",
-    "author": "Parker St. John",
-    "img_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641457005i/60044786.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/DownLow/",
-    "title": "Down Low",
-    "skip": false,
-    "rating": 3.5,
-    "keywords": "关键词：竞技牛仔 & 牧师👮🏻儿子；一身五病；破镜重圆；我和你爸掉河里你救谁",
-    "author": "Parker St. John",
-    "img_url": "https://imgc.artprintimages.com/img/print/i-m-sorry-this-is-literally-my-first-rodeo-new-yorker-cartoon_u-l-pgpq8n0.jpg?artHeight=900&artPerspective=n&artWidth=900&background=fbfbfb"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Downtime/",
-    "title": "Downtime ",
-    "skip": false,
-    "rating": 4.4,
-    "keywords": "关键词：古风，穿越，现代->1880s伦敦，美国FBI & 英国灵媒，开膛手杰克",
-    "author": "Tamara Allen ",
-    "img_url": "https://static01.nyt.com/images/2019/04/21/sunday-review/21wittmeyer/21wittmeyer-superJumbo.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Englishman/",
-    "title": "The Englishman ",
-    "skip": false,
-    "rating": 3.5,
-    "keywords": "关键词：6000词短篇；苏格兰农村->伦敦；贫穷少年误入上流世界；包养；身份构建；柠檬",
-    "author": "Douglas Stuart ",
-    "img_url": "https://images.squarespace-cdn.com/content/v1/5dc39817598601058cf7855c/1600378978577-8TE02909KD9BJLN4VHK1/Screen+Shot+2020-09-17+at+5.40.38+PM.png?format=1000w"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/ExecutiveOffice/",
-    "title": "The Executive Office系列 ",
-    "skip": false,
-    "rating": 4.2,
-    "keywords": "关键词：搬床白宫🇺🇸；搬床克里姆林宫🇷🇺；搬床沙特夏宫🇸🇦；战争；碟中谍；多线发展 ",
-    "author": "Tal Bauer ",
-    "img_url": "https://c.min.ms/t/d/member/c/100/100909/pagegallery/1618068280/d758cdc6.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/FakeOut/",
-    "title": "Fake Out",
-    "skip": false,
-    "rating": 3.3,
-    "keywords": "关键词：直男找假男友逃避前女友；看不透我的扑克脸；姐弟”抢男人”",
-    "author": "Eden Finley",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Farrell/",
-    "title": "Farrell Covington and the Limits of Style",
-    "skip": false,
-    "rating": 4.7,
-    "keywords": "关键词：1973-2023五十年爱情史诗，罗曼喜剧，半自传，坎普风，疯批老钱公子 & 百老汇剧作人",
-    "author": "Paul Rudnick",
-    "img_url": "https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Ftco%2Fimages%2FHuck%2FLeonard-Fink-1-e1615195642553.jpg%3F05-05&w=2048&q=75"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/FathersOfBride/",
-    "title": "Fathers of the Bride",
-    "skip": false,
-    "rating": 3.9,
-    "keywords": "关键词：一婚五订；善待你的敌人；女儿订婚，老夫夫破镜重圆；逼飞奶炸；亲家大战",
-    "author": "Marshall Thornton",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/FlightBehavior/",
-    "title": "Flight Behavior",
-    "skip": false,
-    "rating": 4.0,
-    "keywords": "关键词：压抑婚姻；单亲；红州小镇；帝皇蝶；气候变化",
-    "author": "Barbara Kingsolver",
-    "img_url": "https://i.guim.co.uk/img/static/sys-images/Books/Pix/pictures/2012/10/30/1351616624416/Clifford-Harper-illustrat-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72cfaf0351a1899dc3e3d65012b8aa15"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Foxbridge/",
-    "title": "Lord Foxbridge Butts In",
-    "skip": false,
-    "rating": 4.0,
-    "keywords": "关键词：伦敦，1920s，贵族侦探集，通讯录万能贴身男仆(非cp)，地下通讯录世界，cozy mystery",
-    "author": "Robert L. Manners",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/GPT/",
-    "title": "GPT ",
-    "skip": false,
-    "rating": -1,
-    "keywords": "",
-    "author": "",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/GentleArt/",
-    "title": "The Gentle Art of Fortune Hunting ",
-    "skip": false,
-    "rating": 4.0,
-    "keywords": "关键词：直弯姐弟 & 直弯贵族好友，骗婚不成反落入女方舅舅手里，Math/概率论",
-    "author": "KJ Charles ",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Gentlemen/",
-    "title": "Gentlemen Series",
-    "skip": false,
-    "rating": 4.8,
-    "keywords": "关键词：伦敦，贵族，摄政时代",
-    "author": "KJ Charles ",
-    "img_url": "https://cdna.artstation.com/p/assets/images/images/017/753/690/large/harry-grace-all-3-covers.jpg?1557227031"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Gentlemen/LondonSeries/",
-    "title": "London Series",
-    "skip": false,
-    "rating": 4.8,
-    "keywords": "关键词：伦敦，贵族，维多利亚时代",
-    "author": "",
-    "img_url": ""
+    "rating": 4.3,
+    "keywords": "关键词：麦当娜死忠粉，英国，HE",
+    "author": "者Matt Cain少年时在卧室，他的背后是麦当娜的海",
+    "img_url": "https://i.guim.co.uk/img/media/90bf42ecce4bcee504dbd4ad0a2ad28020091b79/75_0_3519_2556/master/3519.jpg?width=620&dpr=2&s=none"
   },
   {
     "path": "https://boheme13.github.io/Reviews/HazzardSomers/",
@@ -414,12 +243,102 @@
     "img_url": "https://i.loli.net/2021/09/10/2M5xq1mXnESzK9R.png"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/HerosForGhosts/",
-    "title": "Heroes for Ghosts ",
+    "path": "https://boheme13.github.io/Reviews/LilyMortonSeries/",
+    "title": "Lily Morton系列",
     "skip": false,
-    "rating": 3.4,
-    "keywords": "关键词：穿越，一战->现代，士兵，轮回，改写命运",
-    "author": "Jackie North ",
+    "rating": 4.2,
+    "keywords": "关键词：英国男同宇宙；posh；清爽幽默风",
+    "author": "",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/ComfortAndJoy/",
+    "title": "Comfort and Joy ",
+    "skip": false,
+    "rating": 4.2,
+    "keywords": "关键词：千禧年；医院；深柜老钱医生爱上勤杂管理员；疾病；HE",
+    "author": "Jim Grimsley ",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/SecondFootman/",
+    "title": "The Second Footman",
+    "skip": false,
+    "rating": 4.2,
+    "keywords": "关键词：法国文学；男仆上位；心机",
+    "author": "Jasper Barry",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/WorldWellLost/",
+    "title": "The World Well Lost ",
+    "skip": false,
+    "rating": 4.2,
+    "keywords": "关键词：短篇；科幻；外星；太空旅行二人组；暗恋；恐同；现实隐喻",
+    "author": " Theodore Sturgeon ",
+    "img_url": "https://i.ibb.co/yFzn339/IMG-1849.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/ExecutiveOffice/",
+    "title": "The Executive Office系列 ",
+    "skip": false,
+    "rating": 4.2,
+    "keywords": "关键词：搬床白宫🇺🇸；搬床克里姆林宫🇷🇺；搬床沙特夏宫🇸🇦；战争；碟中谍；多线发展 ",
+    "author": "Tal Bauer ",
+    "img_url": "https://c.min.ms/t/d/member/c/100/100909/pagegallery/1618068280/d758cdc6.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/10ThingsNeverHappened/",
+    "title": "10 Things that Never Happened",
+    "skip": false,
+    "rating": 4.2,
+    "keywords": "关键词：圣诞，romcom，被炒后对老板假装失忆，grumpy/sunshine, forced proximity",
+    "author": "Alexis Hall",
+    "img_url": "https://boheme13.github.io/Reviews/./10ThingsNeverHappened/cover.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Memorial/",
+    "title": "Memorial ",
+    "skip": false,
+    "rating": 4.1,
+    "keywords": "关键词：休斯顿 & 大阪；美国人 & 男友日本母亲；推特体；亲人；食物",
+    "author": "Bryan Washington ",
+    "img_url": "https://img.theculturetrip.com/x/wp-content/uploads/2019/04/ia_0903_cityheaders_osaka_jiromiyata.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/AnHonestMan/",
+    "title": "An Honest Man",
+    "skip": false,
+    "rating": 4.1,
+    "keywords": "关键词：柏林墙；西德；间谍；生活西化；HE；coming of age",
+    "author": "Ben Fergusson",
+    "img_url": "https://hachette.imgix.net/books/9780349142579.jpg?auto=compress&w=1600&h=900&fit=crop&fm=jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/StreetLavender/",
+    "title": "Street Lavender ",
+    "skip": false,
+    "rating": 4.1,
+    "keywords": "关键词：找不到从良的理由，站街日记，孤儿流浪记，狄更斯英国",
+    "author": "Chris Hunt ",
+    "img_url": "https://i.ibb.co/KbgqTzs/IMG-3545.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/PissOffFailedHero/",
+    "title": "How to Piss Off A Failed Super-Soldier ",
+    "skip": false,
+    "rating": 4.1,
+    "keywords": "关键词：失败改造人 ❤️ 暗杀特工；短篇小说；科幻；大逃杀；华裔作者；兄弟和解；真·善待你的敌人",
+    "author": "John Chu  朱中宜 ",
+    "img_url": "https://i.ibb.co/tKcdmzn/Super-Soldier-FINAL-3-jpg.png"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/WaterFallsOnYou/",
+    "title": "The Water that Falls On You From Nowhere翻译",
+    "skip": false,
+    "rating": 4.1,
+    "keywords": "关键词：雨果奖短篇；华裔；科幻；传宗接代；带白人老公见家长",
+    "author": "",
     "img_url": ""
   },
   {
@@ -432,31 +351,94 @@
     "img_url": "https://i.loli.net/2021/09/12/4s9rqanJFghNZuH.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/HisRoyal/",
-    "title": "His Royal Secret ",
+    "path": "https://boheme13.github.io/Reviews/FlightBehavior/",
+    "title": "Flight Behavior",
     "skip": false,
-    "rating": 4.5,
-    "keywords": "关键词：英国王子；德国记者；皇室",
-    "author": "Lilah Pace ",
+    "rating": 4.0,
+    "keywords": "关键词：压抑婚姻；单亲；红州小镇；帝皇蝶；气候变化",
+    "author": "Barbara Kingsolver",
+    "img_url": "https://i.guim.co.uk/img/static/sys-images/Books/Pix/pictures/2012/10/30/1351616624416/Clifford-Harper-illustrat-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72cfaf0351a1899dc3e3d65012b8aa15"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/WhenYouWereMe/",
+    "title": "When You Were Me",
+    "skip": false,
+    "rating": 4.0,
+    "keywords": "关键词：互换身体！中年危机霸总 & 年轻贫穷美少男 互换",
+    "author": "Robert Rodi",
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/Honeytrap/",
-    "title": "Honeytrap ",
+    "path": "https://boheme13.github.io/Reviews/BookOfSalt/",
+    "title": "The Book of Salt ",
     "skip": false,
-    "rating": 4.4,
-    "keywords": "关键词：冷战；美苏；特工；传奇式的三十年感情羁绊；三部曲 ",
-    "author": "Aster Glenn Gray ",
-    "img_url": "https://townsquare.media/site/442/files/2015/06/The-Man-From-UNCLE-trailer.jpg"
+    "rating": 4.0,
+    "keywords": "关键词：越南厨师；巴黎；后殖民主义；回忆录体虚构小说",
+    "author": "Monique Truong",
+    "img_url": "https://i.ibb.co/X7QR4LL/IMG-1700.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/HostileTakeover/",
-    "title": "Hostile Takeover",
+    "path": "https://boheme13.github.io/Reviews/TellMeHowToBe/",
+    "title": "Tell Me How to Be ",
+    "skip": false,
+    "rating": 4.0,
+    "keywords": "关键词：印度移民；母子各自秘密；深柜；初恋；包袱；解脱",
+    "author": "Neel Patel ",
+    "img_url": "https://i0.wp.com/chireviewofbooks.com/wp-content/uploads/2021/12/TellMeHowToBe_1920x675.jpg?fit=1200%2C422&ssl=1"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/CarpetWeaver/",
+    "title": "The Carpet Weaver ",
+    "skip": false,
+    "rating": 4.0,
+    "keywords": "关键词：七十年代阿富汗；穆斯林竹马禁忌之恋；手工艺；偷渡；监狱逃生；美国重逢",
+    "author": "Nemat Sadat ",
+    "img_url": "https://dz01iyojmxk8t.cloudfront.net/wp-content/uploads/2019/09/09133915/FB-the-carpet-weaver-by-nemat-sadat-book-cover.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/BeautyBookworm/",
+    "title": "Beauty and the Bookworm",
+    "skip": false,
+    "rating": 4.0,
+    "keywords": "关键词：GUTS🟣，餐券男 & 充实逼电筒",
+    "author": "Nick Pageant",
+    "img_url": "https://www.out.com/media-library/olivia-rodrigos-guts-album.jpg?id=36654165&width=1200&height=600&coordinates=0%2C39%2C0%2C39"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Foxbridge/",
+    "title": "Lord Foxbridge Butts In",
+    "skip": false,
+    "rating": 4.0,
+    "keywords": "关键词：伦敦，1920s，贵族侦探集，通讯录万能贴身男仆(非cp)，地下通讯录世界，cozy mystery",
+    "author": "Robert L. Manners",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/SeducingProfessorCoyle/",
+    "title": "Seducing Professor Coyle",
+    "skip": false,
+    "rating": 4.0,
+    "keywords": "关键词：师生；搬床；三角恋",
+    "author": "Darien Cox",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/GentleArt/",
+    "title": "The Gentle Art of Fortune Hunting ",
+    "skip": false,
+    "rating": 4.0,
+    "keywords": "关键词：直弯姐弟 & 直弯贵族好友，骗婚不成反落入女方舅舅手里，Math/概率论",
+    "author": "KJ Charles ",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/LonelyWar/",
+    "title": "The Lonely War",
     "skip": false,
     "rating": 3.9,
-    "keywords": "关键词：狗血杠杆；善待你的敌人；首谈性侵；昔日霸总变卖身男奴；gαy for you；假男友变真男友；幼儿园商战",
-    "author": "Lucy Lennox",
-    "img_url": "https://www.kaamranhafeez.com/wp-content/uploads/2021/09/NYR-Sep-20.jpg"
+    "keywords": "关键词：孤独；佛教；中美混血；三角共存情感；二战；日本集中营；缘起性空",
+    "author": "Alan Chin",
+    "img_url": "https://i0.wp.com/circulatingnow.nlm.nih.gov/wp-content/uploads/2017/04/1308028rp8_feature.png?fit=840%2C372&ssl=1"
   },
   {
     "path": "https://boheme13.github.io/Reviews/ISawYouFirst/",
@@ -468,57 +450,39 @@
     "img_url": "https://static.independent.co.uk/2021/11/11/12/newFile.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/InMemoriam/",
-    "title": "In Memoriam",
+    "path": "https://boheme13.github.io/Reviews/HostileTakeover/",
+    "title": "Hostile Takeover",
     "skip": false,
-    "rating": 3.7,
-    "keywords": "关键词：双向奔赴；暗恋；WWI；青年贵族上战场；PTSD",
-    "author": "Alice Winn",
-    "img_url": "https://i0.wp.com/www.buzzmag.co.uk/wp-content/uploads/2023/03/Alice-Winn-Featured-Image.png?fit=1200%2C900&ssl=1"
+    "rating": 3.9,
+    "keywords": "关键词：狗血杠杆；善待你的敌人；首谈性侵；昔日霸总变卖身男奴；gαy for you；假男友变真男友；幼儿园商战",
+    "author": "Lucy Lennox",
+    "img_url": "https://www.kaamranhafeez.com/wp-content/uploads/2021/09/NYR-Sep-20.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/IncompleteProof/",
-    "title": "Incomplete Proof 翻译",
+    "path": "https://boheme13.github.io/Reviews/PointOfContact/",
+    "title": "Point of Contact",
     "skip": false,
-    "rating": 4.6,
-    "keywords": "关键词：分手后破镜重圆；数学证明 = 时装走秀；P != NP",
-    "author": "",
-    "img_url": "https://imgs.xkcd.com/comics/travelling_salesman_problem.png"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Inheritance/",
-    "title": "The Inheritance ",
-    "skip": false,
-    "rating": 5.0,
-    "keywords": "关键词：舞台剧；福斯特；2016年纽约；超现实生死对话；三代人；HIV；里根/特朗普时代",
-    "author": "Matthew Lopez ",
-    "img_url": "https://www.youngvic.org/sites/default/files/4_0_2.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/InvitationToDance/",
-    "title": "Invitation to the Dance ",
-    "skip": false,
-    "rating": 3.6,
-    "keywords": "关键词：美国近代风；仇人变爱人；记者 & 编辑；冒牌贵族误入上流社会",
-    "author": "Tamara Allen ",
-    "img_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/newspaper-digital-remastered-edition-joseph-christian-leyendecker.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Jackdaw/",
-    "title": "Jackdaw",
-    "skip": false,
-    "rating": 3.3,
-    "keywords": "关键词：男飞贼 & 警察；前作反派变主角；喜鹊王",
-    "author": "KJ Charles",
+    "rating": 3.9,
+    "keywords": "关键词：战争，中年丧子父亲 & 亡子战友，PTSD",
+    "author": "Melanie Hansen",
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/JohnChu/",
-    "title": "John Chu短篇小说合集",
+    "path": "https://boheme13.github.io/Reviews/WinterbourneSeries/",
+    "title": "Winterbourne系列四部曲",
     "skip": false,
-    "rating": 4.4,
-    "keywords": "关键词：科幻，短篇，华裔",
-    "author": "作者介",
+    "rating": 3.9,
+    "keywords": "关键词：节日系列",
+    "author": "",
+    "img_url": "https://i1.wp.com/kimmerseroticbookbanter.com/wp-content/uploads/2018/11/Winterbourne-Series.png?fit=940%2C788&ssl=1"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/FathersOfBride/",
+    "title": "Fathers of the Bride",
+    "skip": false,
+    "rating": 3.9,
+    "keywords": "关键词：一婚五订；善待你的敌人；女儿订婚，老夫夫破镜重圆；逼飞奶炸；亲家大战",
+    "author": "Marshall Thornton",
     "img_url": ""
   },
   {
@@ -528,7 +492,52 @@
     "rating": 3.8,
     "keywords": "关键词：coming of age, 棒球运动员 & 制作人, 流浪, 22年虐恋",
     "author": "Tom Mendicino",
-    "img_url": "./KCTriology/KCTriologyCover.JPG"
+    "img_url": "https://boheme13.github.io/Reviews/./KCTriology/KCTriologyCover.JPG"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/ThisWayOut/",
+    "title": "This Way Out",
+    "skip": false,
+    "rating": 3.8,
+    "keywords": "关键词：英国；男穆斯林 & 中产白男；二代移民；文化鸿沟；结婚",
+    "author": "Tufayel Ahmed",
+    "img_url": "https://wordpress.bigissue.com/wp-content/uploads/2022/07/1521_Books_2.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/St-St-Stuffed/",
+    "title": "St-St-stuffed",
+    "skip": false,
+    "rating": 3.8,
+    "keywords": "关键词：曾被霸凌的口吃霸总；昔日富二代校霸变洗脚婢；善待你的敌人",
+    "author": "Anyta Sunday",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Borealis/",
+    "title": "Borealis侦探事务所系列",
+    "skip": false,
+    "rating": 3.8,
+    "keywords": "关键词：私家侦探，暗恋变恋人，体型差，长系列",
+    "author": "会杀人案：在一年一度的英耽作者集会上，一个知名作家被当场毒死。这部书是全系列最轻松的一本，和主线没太大关系",
+    "img_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/56542f28485137.55c24dbbc698e.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/RiskAssessment/",
+    "title": "Risk Assessment ",
+    "skip": false,
+    "rating": 3.8,
+    "keywords": "关键词：年龄差，阶级差，熟男律师，前罪犯现修车店老板，双外强内弱男主",
+    "author": "Parker St. John ",
+    "img_url": "https://i.loli.net/2021/09/13/BdQhbzOIqaFoU6X.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/TheOtherBF/",
+    "title": "The Other Boyfriend",
+    "skip": false,
+    "rating": 3.8,
+    "keywords": "关键词：捉三记，善待你的敌人，小三help小三",
+    "author": "Darien Cox",
+    "img_url": ""
   },
   {
     "path": "https://boheme13.github.io/Reviews/KingOfInfiniteSpace/",
@@ -540,13 +549,85 @@
     "img_url": "https://images.squarespace-cdn.com/content/v1/553543bbe4b038e4672f2ed2/642f3338-d57b-4ac9-9e23-760392050fd1/TheKingofInfiniteSpace_CoverBanners_v6_+Facebook.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/Less/",
-    "title": "Less ",
+    "path": "https://boheme13.github.io/Reviews/WorldAndAllThatItHolds/",
+    "title": "The World and All That It Holds ",
     "skip": false,
-    "rating": 4.7,
-    "keywords": "关键词：喜剧Comedy，文风轻散愉快，为了躲前男友婚礼去环球旅行，奥德赛英雄史诗",
-    "author": "Andrew Sean Greer ",
-    "img_url": "https://hips.hearstapps.com/hmg-prod/images/es-042318-andrew-sean-greer-pulitzer-prize-1524509921.jpg"
+    "rating": 3.8,
+    "keywords": "关键词：一战，欧亚逃难之旅，多语言",
+    "author": "Aleksandar Hemon ",
+    "img_url": "https://mpd-biblio-covers.imgix.net/9781250883537.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/InMemoriam/",
+    "title": "In Memoriam",
+    "skip": false,
+    "rating": 3.7,
+    "keywords": "关键词：双向奔赴；暗恋；WWI；青年贵族上战场；PTSD",
+    "author": "Alice Winn",
+    "img_url": "https://i0.wp.com/www.buzzmag.co.uk/wp-content/uploads/2023/03/Alice-Winn-Featured-Image.png?fit=1200%2C900&ssl=1"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/BookBF/",
+    "title": "Book Boyfriend ",
+    "skip": false,
+    "rating": 3.7,
+    "keywords": "关键词：metafiction；诺桑觉寺改写",
+    "author": "Kris Ripper ",
+    "img_url": "https://i0.wp.com/thequeerreview.com/wp-content/uploads/2022/03/817cHlswyRL-1-1.jpg?fit=1566%2C879&ssl=1"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/RomanticComedy/",
+    "title": "Romantic Comedy",
+    "skip": false,
+    "rating": 3.7,
+    "keywords": "关键词：双钻年专歌手 & SNL写手；喜剧制作；新冠；居家隔离",
+    "author": "Curtis Sittenfeld",
+    "img_url": "https://media.vanityfair.com/photos/57c04f40daec5e0d4f5d7cf7/master/w_1440,h_960,c_limit/t-britney-spears-2001-vma-snake.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/MendedWithGold/",
+    "title": "Mended with Gold",
+    "skip": false,
+    "rating": 3.7,
+    "keywords": "关键词：中篇；细腻文笔；一心五病；老男人；PTSD；跨年恋；新西兰；摄影师 & 漫画家；治愈",
+    "author": "Lee Welch",
+    "img_url": "https://m.media-amazon.com/images/I/51EmjVSkIEL.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/TheseViolentDelights/",
+    "title": "These Violent Delights",
+    "skip": false,
+    "rating": 3.7,
+    "keywords": "关键词：现代美国；穷大学生 & 富家公子；精神疾病；病态关系；互虐；不可靠叙事；罗密欧与朱丽叶框架；棋局隐喻；诗意语言",
+    "author": "Micah Nemerever",
+    "img_url": "https://loebandleopold.files.wordpress.com/2020/09/71fkalpso5l.jpg?w=920&h=383&crop=1"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/LostLanguageOfCrane/",
+    "title": "The Lost Language of Cranes ",
+    "skip": false,
+    "rating": 3.7,
+    "keywords": "关键词：父子都是Gay，互不知情，纽约，1980s，家庭，身份认同",
+    "author": "David Leavitt ",
+    "img_url": "https://cdn.shopify.com/s/files/1/0257/3165/products/7925217_1000x.jpg?v=1508192505"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/BlueSkies/",
+    "title": "Blue Skies",
+    "skip": false,
+    "rating": 3.6,
+    "keywords": "关键词：建筑文物保护运动家 v.s. 房地产霸总，镀金年代/现代，曼哈顿，时间穿越，MF/MM",
+    "author": "Tamara Allen",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Territory/",
+    "title": "Territory ",
+    "skip": false,
+    "rating": 3.6,
+    "keywords": "关键词：短篇，隐晦，反同，虚伪家长",
+    "author": "者David Leavitt照",
+    "img_url": "https://shortstorymagictricks.files.wordpress.com/2014/07/leavitt-david-1983.jpg"
   },
   {
     "path": "https://boheme13.github.io/Reviews/LessIsLost/",
@@ -558,21 +639,21 @@
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/LessParallel/",
-    "title": "Less ",
+    "path": "https://boheme13.github.io/Reviews/PlayingTheAce/",
+    "title": "Playing the Ace",
     "skip": false,
-    "rating": -1,
-    "keywords": "",
-    "author": "Andrew Sean Greer ",
-    "img_url": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/112077-wcgkxhydvr-1549105213.jpg"
+    "rating": 3.6,
+    "keywords": "关键词：镀金时代；金银之争；敌人变爱人再变搭档；联邦金本位派反假银币探员 & 前天才铸银假币罪犯；善待你的敌人",
+    "author": "Tamara Allen",
+    "img_url": "https://www.aier.org/wp-content/uploads/2017/03/Survival_of_the_Fittest-scaled-1200x900-cropped.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/LilyMortonSeries/",
-    "title": "Lily Morton系列",
+    "path": "https://boheme13.github.io/Reviews/WinklerCase/",
+    "title": "The Winkler Case ",
     "skip": false,
-    "rating": 4.2,
-    "keywords": "关键词：英国男同宇宙；posh；清爽幽默风",
-    "author": "",
+    "rating": 3.6,
+    "keywords": "关键词：战后黄金年代；悬疑；意料外结局；点睛之笔",
+    "author": "David Greene",
     "img_url": ""
   },
   {
@@ -585,94 +666,130 @@
     "img_url": "https://s.hdnux.com/photos/57/07/44/12351753/4/rawImage.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/LondonCalling/",
-    "title": "Boyfriend/Husband Material",
+    "path": "https://boheme13.github.io/Reviews/InvitationToDance/",
+    "title": "Invitation to the Dance ",
     "skip": false,
-    "rating": 4.8,
-    "keywords": "关键词：都市丽人喜剧；伦敦；假男友变真男友",
-    "author": "Alexis Hall",
-    "img_url": "https://i.ebayimg.com/images/g/Qh4AAOSwMAxj90qe/s-l1600.jpg"
+    "rating": 3.6,
+    "keywords": "关键词：美国近代风；仇人变爱人；记者 & 编辑；冒牌贵族误入上流社会",
+    "author": "Tamara Allen ",
+    "img_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/newspaper-digital-remastered-edition-joseph-christian-leyendecker.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/LonelyWar/",
-    "title": "The Lonely War",
+    "path": "https://boheme13.github.io/Reviews/Alec/",
+    "title": "Alec ",
     "skip": false,
-    "rating": 3.9,
-    "keywords": "关键词：孤独；佛教；中美混血；三角共存情感；二战；日本集中营；缘起性空",
-    "author": "Alan Chin",
-    "img_url": "https://i0.wp.com/circulatingnow.nlm.nih.gov/wp-content/uploads/2017/04/1308028rp8_feature.png?fit=840%2C372&ssl=1"
+    "rating": 3.5,
+    "keywords": "关键词：莫里斯的情人；续写",
+    "author": "William di Canzio ",
+    "img_url": "https://i1.wp.com/epgn.com/wp-content/uploads/2021/07/Alc.jpg?fit=1200%2C748&ssl=1"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/LostLanguageOfCrane/",
-    "title": "The Lost Language of Cranes ",
+    "path": "https://boheme13.github.io/Reviews/DownLow/",
+    "title": "Down Low",
     "skip": false,
-    "rating": 3.7,
-    "keywords": "关键词：父子都是Gay，互不知情，纽约，1980s，家庭，身份认同",
-    "author": "David Leavitt ",
-    "img_url": "https://cdn.shopify.com/s/files/1/0257/3165/products/7925217_1000x.jpg?v=1508192505"
+    "rating": 3.5,
+    "keywords": "关键词：竞技牛仔 & 牧师👮🏻儿子；一身五病；破镜重圆；我和你爸掉河里你救谁",
+    "author": "Parker St. John",
+    "img_url": "https://imgc.artprintimages.com/img/print/i-m-sorry-this-is-literally-my-first-rodeo-new-yorker-cartoon_u-l-pgpq8n0.jpg?artHeight=900&artPerspective=n&artWidth=900&background=fbfbfb"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/LuckyCharm/",
-    "title": "Lucky Charm",
+    "path": "https://boheme13.github.io/Reviews/YoungMungo/",
+    "title": "Young Mungo",
     "skip": false,
-    "rating": 3.0,
-    "keywords": "关键词：短篇；好莱坞最后一个巨星；搬床失败；一个明星的断气",
-    "author": "Chase Verity",
-    "img_url": "https://m.media-amazon.com/images/I/41YFMHbTfmL.jpg"
+    "rating": 3.5,
+    "keywords": "关键词：后撒切尔时代苏格兰，少年黑帮版罗密欧与朱丽叶，家暴，酗酒",
+    "author": "Stuart Douglas",
+    "img_url": "https://booksfromscotland.com/wp-content/uploads/2022/04/Young-Mungo-scaled.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/MadonnaOfBolton/",
-    "title": "The Madonna of Bolton",
+    "path": "https://boheme13.github.io/Reviews/DownInFlames/",
+    "title": "Down in Flames",
     "skip": false,
-    "rating": 4.3,
-    "keywords": "关键词：麦当娜死忠粉，英国，HE",
-    "author": "者Matt Cain少年时在卧室，他的背后是麦当娜的海",
-    "img_url": "https://i.guim.co.uk/img/media/90bf42ecce4bcee504dbd4ad0a2ad28020091b79/75_0_3519_2556/master/3519.jpg?width=620&dpr=2&s=none"
+    "rating": 3.5,
+    "keywords": "关键词：竞技骑牛；打工弟爱上鳏夫老板",
+    "author": "Parker St. John",
+    "img_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641457005i/60044786.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/MagicInManhattan/",
-    "title": "Magic in Manhattan Series",
+    "path": "https://boheme13.github.io/Reviews/ConfettiHearts/",
+    "title": "Confetti Hearts",
     "skip": false,
-    "rating": 4.8,
-    "keywords": "关键词：奇幻；魔法；咆哮二十年；爵士年代",
-    "author": "Allie Therin",
-    "img_url": "https://m.media-amazon.com/images/S/aplus-media/vc/c6b57c13-a367-4c7d-83a7-92b2cd2a5858.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+    "rating": 3.5,
+    "keywords": "关键词：老男人；先婚后爱；知三当三；一婚五离；婚礼策划；风雪夜酒店",
+    "author": "Lily Morton",
+    "img_url": "https://cdn.amomama.com/0fa6784d9f740e445468b5516eebfaeb.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/Memorial/",
-    "title": "Memorial ",
+    "path": "https://boheme13.github.io/Reviews/Englishman/",
+    "title": "The Englishman ",
     "skip": false,
-    "rating": 4.1,
-    "keywords": "关键词：休斯顿 & 大阪；美国人 & 男友日本母亲；推特体；亲人；食物",
-    "author": "Bryan Washington ",
-    "img_url": "https://img.theculturetrip.com/x/wp-content/uploads/2019/04/ia_0903_cityheaders_osaka_jiromiyata.jpg"
+    "rating": 3.5,
+    "keywords": "关键词：6000词短篇；苏格兰农村->伦敦；贫穷少年误入上流世界；包养；身份构建；柠檬",
+    "author": "Douglas Stuart ",
+    "img_url": "https://images.squarespace-cdn.com/content/v1/5dc39817598601058cf7855c/1600378978577-8TE02909KD9BJLN4VHK1/Screen+Shot+2020-09-17+at+5.40.38+PM.png?format=1000w"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/MendedWithGold/",
-    "title": "Mended with Gold",
+    "path": "https://boheme13.github.io/Reviews/AquaFollies/",
+    "title": "Aqua Follies ",
     "skip": false,
-    "rating": 3.7,
-    "keywords": "关键词：中篇；细腻文笔；一心五病；老男人；PTSD；跨年恋；新西兰；摄影师 & 漫画家；治愈",
-    "author": "Lee Welch",
-    "img_url": "https://m.media-amazon.com/images/I/51EmjVSkIEL.jpg"
+    "rating": 3.4,
+    "keywords": "关键词：战后保守年代；西雅图；水上芭蕾；法学生爱上小号手",
+    "author": "Liv Rancourt ",
+    "img_url": "https://cdn.hourdetroit.com/wp-content/uploads/sites/20/2019/08/aqua-follies.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/Merrick/",
-    "title": "Merrick",
+    "path": "https://boheme13.github.io/Reviews/OmegasInPower/",
+    "title": "Omegas in Power",
     "skip": false,
-    "rating": 3.0,
-    "keywords": "关键词：吸血鬼，卖身契，老头乐",
-    "author": "Claire Cray",
-    "img_url": "https://m.media-amazon.com/images/I/41uuH8jXhwL.jpg"
+    "rating": 3.4,
+    "keywords": "关键词：三独艺人A & 霸总O，弱A强O，死G，穿着的方式/身上的诱惑，善待你的敌人，和老男人结婚的体验",
+    "author": "Sai Fox",
+    "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/MysteriesOfPittsburgh/",
-    "title": "The Mysteries of Pittsburgh",
+    "path": "https://boheme13.github.io/Reviews/AmericanScholar/",
+    "title": "American Scholar",
     "skip": false,
-    "rating": 3.2,
-    "keywords": "关键词：麦田里的守望者风格 ；coming of age；大学毕业；深柜；黑帮",
-    "author": "Michael Chabon",
-    "img_url": "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/the-mysteries-of-pittsburgh-2009/EB20090409REVIEWS904099991AR.jpg"
+    "rating": 3.4,
+    "keywords": "关键词：metafiction，三代美国学者，麦肯锡/里根/川普时代，文学评论，大学学术",
+    "author": "Patrick E. Horrigan",
+    "img_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678060336i/123186229.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/HerosForGhosts/",
+    "title": "Heroes for Ghosts ",
+    "skip": false,
+    "rating": 3.4,
+    "keywords": "关键词：穿越，一战->现代，士兵，轮回，改写命运",
+    "author": "Jackie North ",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Jackdaw/",
+    "title": "Jackdaw",
+    "skip": false,
+    "rating": 3.3,
+    "keywords": "关键词：男飞贼 & 警察；前作反派变主角；喜鹊王",
+    "author": "KJ Charles",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/FakeOut/",
+    "title": "Fake Out",
+    "skip": false,
+    "rating": 3.3,
+    "keywords": "关键词：直男找假男友逃避前女友；看不透我的扑克脸；姐弟”抢男人”",
+    "author": "Eden Finley",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/BandSinister/",
+    "title": "Band Sinister",
+    "skip": false,
+    "rating": 3.3,
+    "keywords": "关键词：古风；哥特；前工革英式田园牧歌；小白兔闯狼巢；善待你的敌人",
+    "author": "K.J. Charles",
+    "img_url": "https://m.media-amazon.com/images/I/51AGjaMqTCL._SL500_.jpg"
   },
   {
     "path": "https://boheme13.github.io/Reviews/OfficeRomance/",
@@ -684,12 +801,30 @@
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/OmegasInPower/",
-    "title": "Omegas in Power",
+    "path": "https://boheme13.github.io/Reviews/PerfectDay/",
+    "title": "Perfect Day",
     "skip": false,
-    "rating": 3.4,
-    "keywords": "关键词：三独艺人A & 霸总O，弱A强O，死G，穿着的方式/身上的诱惑，善待你的敌人，和老男人结婚的体验",
-    "author": "Sai Fox",
+    "rating": 3.2,
+    "keywords": "关键词：简奥斯汀，《劝导》改写，破镜重圆，一个明星的诞生",
+    "author": "Sally Malcolm",
+    "img_url": "https://cdn.theatlantic.com/thumbor/47AEP-F9HLxLSzhWwkQO3asKp0k=/1x1072:3071x4142/1080x1080/media/img/mt/2018/12/GettyImages_587837094/original.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/ArrowsFlight/",
+    "title": "An Arrow’s Flight",
+    "skip": false,
+    "rating": 3.2,
+    "keywords": "关键词：希腊神话现代新编；阿喀琉斯之子；特洛伊战争；男妓；反英雄叙事；HIV潮",
+    "author": "Mark Merlis",
+    "img_url": "https://www.worldhistory.org/img/c/p/1200x627/14193.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/CuckoosCall/",
+    "title": "The Cuckoo’s Call",
+    "skip": false,
+    "rating": 3.2,
+    "keywords": "关键词：老男人；意大利雕塑般侧颜；首谈性亲；古驰之家酒店版；家有一老如有一宝",
+    "author": "Lily Morton",
     "img_url": ""
   },
   {
@@ -702,85 +837,22 @@
     "img_url": "https://lilymortonauthor.com/wp-content/uploads/On-a-Midnight-Clear-by-Lily-Morton-Banner.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/Pansies/",
-    "title": "Pansies",
-    "skip": false,
-    "rating": 2.8,
-    "keywords": "",
-    "author": "Alexis Hall",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/PeopleInTheTrees/",
-    "title": "The People in the Trees ",
-    "skip": false,
-    "rating": 4.9,
-    "keywords": "关键词：1：独白体，男版洛丽塔，不可靠叙事者；2：长生不老，土著岛民，学术帝国殖民主义；共同关键词：权力失衡，不对等关系",
-    "author": "Hanya Yanagihara",
-    "img_url": "https://i.ibb.co/rdv7pj9/IMG-1930.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/PerfectDay/",
-    "title": "Perfect Day",
+    "path": "https://boheme13.github.io/Reviews/BadHusbandHandbook/",
+    "title": "The Bad Husband’s Handbook",
     "skip": false,
     "rating": 3.2,
-    "keywords": "关键词：简奥斯汀，《劝导》改写，破镜重圆，一个明星的诞生",
-    "author": "Sally Malcolm",
-    "img_url": "https://cdn.theatlantic.com/thumbor/47AEP-F9HLxLSzhWwkQO3asKp0k=/1x1072:3071x4142/1080x1080/media/img/mt/2018/12/GettyImages_587837094/original.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/PissOffFailedHero/",
-    "title": "How to Piss Off A Failed Super-Soldier ",
-    "skip": false,
-    "rating": 4.1,
-    "keywords": "关键词：失败改造人 ❤️ 暗杀特工；短篇小说；科幻；大逃杀；华裔作者；兄弟和解；真·善待你的敌人",
-    "author": "John Chu  朱中宜 ",
-    "img_url": "https://i.ibb.co/tKcdmzn/Super-Soldier-FINAL-3-jpg.png"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/PlayingTheAce/",
-    "title": "Playing the Ace",
-    "skip": false,
-    "rating": 3.6,
-    "keywords": "关键词：镀金时代；金银之争；敌人变爱人再变搭档；联邦金本位派反假银币探员 & 前天才铸银假币罪犯；善待你的敌人",
-    "author": "Tamara Allen",
-    "img_url": "https://www.aier.org/wp-content/uploads/2017/03/Survival_of_the_Fittest-scaled-1200x900-cropped.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/PlayingThePalace/",
-    "title": "Playing the Palace",
-    "skip": false,
-    "rating": 4.4,
-    "keywords": "关键词：🇬🇧王子爱上我🇺🇸，喜剧，英国世男一爱上新泽西素人",
-    "author": "Paul Rudnick",
-    "img_url": "https://hips.hearstapps.com/hmg-prod/images/playing-the-palace-1621273366.jpg?resize=1200:*"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/PointOfContact/",
-    "title": "Point of Contact",
-    "skip": false,
-    "rating": 3.9,
-    "keywords": "关键词：战争，中年丧子父亲 & 亡子战友，PTSD",
-    "author": "Melanie Hansen",
+    "keywords": "关键词：丧偶式育儿；离婚冷静期；逆向约会",
+    "author": "Reanna Pryce",
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/PopStar/",
-    "title": "Pop Star Series",
+    "path": "https://boheme13.github.io/Reviews/MysteriesOfPittsburgh/",
+    "title": "The Mysteries of Pittsburgh",
     "skip": false,
-    "rating": -1,
-    "keywords": "关键词：流行歌手，男团，三独艺人",
-    "author": "",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/PopStar/1/",
-    "title": "Pop Star",
-    "skip": false,
-    "rating": 3.0,
-    "keywords": "关键词：三独艺人；Sour🟣；流行歌手；贴身保镖；不愿为粉丝去死一明星",
-    "author": "Eden Finley",
-    "img_url": ""
+    "rating": 3.2,
+    "keywords": "关键词：麦田里的守望者风格 ；coming of age；大学毕业；深柜；黑帮",
+    "author": "Michael Chabon",
+    "img_url": "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/the-mysteries-of-pittsburgh-2009/EB20090409REVIEWS904099991AR.jpg"
   },
   {
     "path": "https://boheme13.github.io/Reviews/PopStar/4/",
@@ -792,11 +864,20 @@
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/PopStar/3/",
-    "title": "Fandom",
+    "path": "https://boheme13.github.io/Reviews/Merrick/",
+    "title": "Merrick",
     "skip": false,
-    "rating": 2.9,
-    "keywords": "关键词：0独艺人；灵巧事业；音乐电影双断气型艺人；首谈新亲/性亲",
+    "rating": 3.0,
+    "keywords": "关键词：吸血鬼，卖身契，老头乐",
+    "author": "Claire Cray",
+    "img_url": "https://m.media-amazon.com/images/I/41uuH8jXhwL.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/PopStar/1/",
+    "title": "Pop Star",
+    "skip": false,
+    "rating": 3.0,
+    "keywords": "关键词：三独艺人；Sour🟣；流行歌手；贴身保镖；不愿为粉丝去死一明星",
     "author": "Eden Finley",
     "img_url": ""
   },
@@ -810,22 +891,49 @@
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/ProperScoundrels/",
-    "title": "Proper Scoundrels",
+    "path": "https://boheme13.github.io/Reviews/Anterograde/",
+    "title": "Anterograde",
     "skip": false,
-    "rating": 4.5,
-    "keywords": "关键词：善待你的敌人；嘴贱腹黑闷骚英国子爵 & 西班牙奶狗血族法师",
-    "author": "Allie Therin",
-    "img_url": ""
+    "rating": 3.0,
+    "keywords": "关键词：缓存式失忆症；医生 & 医生；每天醒来都发现已婚crush在床上；初恋每一天",
+    "author": "Kallysten",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BZjI2NGY4YTYtNTcwOC00NmMxLTgyY2YtYjI5MDE4MzUxMjg0XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_.jpg"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/RaceEthinicity/",
-    "title": "各个族裔作品大全 ",
+    "path": "https://boheme13.github.io/Reviews/LuckyCharm/",
+    "title": "Lucky Charm",
     "skip": false,
-    "rating": 4.5,
-    "keywords": "关键词：15+不同族裔的酷儿作品",
-    "author": "我怀疑取材自作者本人生活，作者(美国白男)在爱达荷州读大学时认识了中国留学生，后来两人移民加拿大温哥华现在结婚了。这本书封面致敬了中苏友好时期的海报造型，故事讲的是生活在爱达荷州的白人少年Niko和华裔Thomas青梅竹马，两人原本照着既定的轨迹生活，高中即将毕业，和女孩约会，在风气保守的小镇安好度过平静的时光。然而随着性意识在成年前的觉醒，Niko和Thomas都在对方身上发现了前所未有的吸引力，一方面从未探索过自己性取向的两人对突如其来的情感倍感迷茫，另一方面，周围保守的风气和Thomas的中国父母也是外部压力",
-    "img_url": ""
+    "rating": 3.0,
+    "keywords": "关键词：短篇；好莱坞最后一个巨星；搬床失败；一个明星的断气",
+    "author": "Chase Verity",
+    "img_url": "https://m.media-amazon.com/images/I/41YFMHbTfmL.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/CinderellaWaltz/",
+    "title": "The Cinderella Waltz",
+    "skip": false,
+    "rating": 3.0,
+    "keywords": "关键词：纽约客短篇；婚姻；灰姑娘心理",
+    "author": "Ann Beattie",
+    "img_url": "https://cdn.britannica.com/17/187517-050-B8CCBE7D/Ann-Beattie.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/APlaceCalledWinter/",
+    "title": "A Place Called Winter",
+    "skip": false,
+    "rating": 3.0,
+    "keywords": "关键词：英格兰->加拿大；拓荒；自我认同",
+    "author": "Patrick Gale",
+    "img_url": "https://i.ytimg.com/vi/hDh4EEh6N1E/maxresdefault.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/CannoliSeries/",
+    "title": "Fireman’s Carry (短篇前传)",
+    "skip": false,
+    "rating": 3.0,
+    "keywords": "关键词：卡卡家族；意大利雕塑般侧颜；阳肛四兄弟；消防员",
+    "author": "Eli Easton",
+    "img_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675279324i/95503979.jpg"
   },
   {
     "path": "https://boheme13.github.io/Reviews/RatCatchersDaughter/",
@@ -837,31 +945,76 @@
     "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/RiskAssessment/",
-    "title": "Risk Assessment ",
+    "path": "https://boheme13.github.io/Reviews/PopStar/3/",
+    "title": "Fandom",
     "skip": false,
-    "rating": 3.8,
-    "keywords": "关键词：年龄差，阶级差，熟男律师，前罪犯现修车店老板，双外强内弱男主",
-    "author": "Parker St. John ",
-    "img_url": "https://i.loli.net/2021/09/13/BdQhbzOIqaFoU6X.jpg"
+    "rating": 2.9,
+    "keywords": "关键词：0独艺人；灵巧事业；音乐电影双断气型艺人；首谈新亲/性亲",
+    "author": "Eden Finley",
+    "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/RobertRodi/",
-    "title": "Robert Rodi系列",
+    "path": "https://boheme13.github.io/Reviews/Pansies/",
+    "title": "Pansies",
     "skip": false,
-    "rating": 4.5,
-    "keywords": "关键词：男同comedy，90年代，逼飞奶炸；深柜社畜被迫逼弯做直却遇真命天子；直女爱上gay蜜不惜黑白通吃只为拆散对方；男宠撕逼争宠导演老男人；严肃律师意外找到双胞胎变装皇后兄弟",
+    "rating": 2.8,
+    "keywords": "",
+    "author": "Alexis Hall",
+    "img_url": ""
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Arrivals/",
+    "title": "Arrivals",
+    "skip": false,
+    "rating": 2.8,
+    "keywords": "关键词：纽约客短篇；演员 & 素人；后疫情时代",
+    "author": "Bryan Washington",
+    "img_url": "https://media.newyorker.com/photos/62bb774f3cff44f80d180095/1:1/w_1758,h_1758,c_limit/220711_r40665.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Dorian/",
+    "title": "Dorian",
+    "skip": false,
+    "rating": 0.0,
+    "keywords": "关键词：道林格雷重写；80s；三角关系；三毒；艾滋潮；戴安娜王妃",
+    "author": "Will Self",
+    "img_url": "https://maudtaberthomas.files.wordpress.com/2010/07/dorian-gray-ii.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/GPT/",
+    "title": "GPT ",
+    "skip": false,
+    "rating": -1,
+    "keywords": "",
     "author": "",
-    "img_url": "https://ksr-ugc.imgix.net/assets/011/491/176/b382e955b89d636ce1afd087a659fc30_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1463683501&auto=format&frame=1&q=92&s=54d5697d296bd0eac1c823c751ed85de"
+    "img_url": ""
   },
   {
-    "path": "https://boheme13.github.io/Reviews/RomanticComedy/",
-    "title": "Romantic Comedy",
+    "path": "https://boheme13.github.io/Reviews/LessParallel/",
+    "title": "Less ",
     "skip": false,
-    "rating": 3.7,
-    "keywords": "关键词：双钻年专歌手 & SNL写手；喜剧制作；新冠；居家隔离",
-    "author": "Curtis Sittenfeld",
-    "img_url": "https://media.vanityfair.com/photos/57c04f40daec5e0d4f5d7cf7/master/w_1440,h_960,c_limit/t-britney-spears-2001-vma-snake.jpg"
+    "rating": -1,
+    "keywords": "",
+    "author": "Andrew Sean Greer ",
+    "img_url": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/112077-wcgkxhydvr-1549105213.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/Collection2023/",
+    "title": "2023扫文大全",
+    "skip": false,
+    "rating": -1,
+    "keywords": "关键词：70+本书扫文",
+    "author": "是中篇，只有其他小说的三分之一那么长，但情节却麻雀虽小五脏俱全，其中描绘性的语言尤其出色，作者有个创意写作的硕士学位，这篇小说的遣词造句尤其是前半部分读起来打磨感十足(非贬义)，描绘性语言很美很细微，读起来让我感觉有舒缓平静内心的效果。男主曾是战地记者，在目睹同事被炸死后选择隐居到新西兰小镇，在这里他遇到了同样有PTSD的一个少年，两个fxcked-up、内向但又内心温柔善良的人就这样开始慢慢交",
+    "img_url": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XTFDAULACJHIBF42V2KAIC6OHE.jpg"
+  },
+  {
+    "path": "https://boheme13.github.io/Reviews/PopStar/",
+    "title": "Pop Star Series",
+    "skip": false,
+    "rating": -1,
+    "keywords": "关键词：流行歌手，男团，三独艺人",
+    "author": "",
+    "img_url": ""
   },
   {
     "path": "https://boheme13.github.io/Reviews/RoomWithView/",
@@ -873,174 +1026,12 @@
     "img_url": "https://images.seattletimes.com/wp-content/uploads/2020/09/09042020_room_094741.jpg?d=2040x1144"
   },
   {
-    "path": "https://boheme13.github.io/Reviews/SecondFootman/",
-    "title": "The Second Footman",
-    "skip": false,
-    "rating": 4.2,
-    "keywords": "关键词：法国文学；男仆上位；心机",
-    "author": "Jasper Barry",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/SeducingProfessorCoyle/",
-    "title": "Seducing Professor Coyle",
-    "skip": false,
-    "rating": 4.0,
-    "keywords": "关键词：师生；搬床；三角恋",
-    "author": "Darien Cox",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Server/",
-    "title": "Server",
-    "skip": false,
-    "rating": 4.6,
-    "keywords": "关键词：大阪，旅日美国人，closure",
-    "author": "Bryan Washington",
-    "img_url": "https://media.newyorker.com/photos/64e7b9cfd9946db461924672/1:1/w_2560,h_2560,c_limit/Washington_Server_Novella_social.png"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Sorting/",
-    "title": "族裔作品大全 ](https://boheme13.github.io/Reviews/RaceEthinicity/) Rating: 4.5",
+    "path": "https://boheme13.github.io/Reviews/DancesLongForgotten/",
+    "title": "Dances Long Forgotten",
     "skip": false,
     "rating": -1,
-    "keywords": "关键词：舞台剧；福斯特；2016年纽约；超现实生死对话；三代人；HIV；里根/特朗普时代",
-    "author": "：失败改造人 ❤️ 暗杀特工；短篇小说；科幻；大逃杀；华裔作者；兄弟和解；真·善待你的敌",
-    "img_url": "https://www.youngvic.org/sites/default/files/4_0_2.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/St-St-Stuffed/",
-    "title": "St-St-stuffed",
-    "skip": false,
-    "rating": 3.8,
-    "keywords": "关键词：曾被霸凌的口吃霸总；昔日富二代校霸变洗脚婢；善待你的敌人",
-    "author": "Anyta Sunday",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/StreetLavender/",
-    "title": "Street Lavender ",
-    "skip": false,
-    "rating": 4.1,
-    "keywords": "关键词：找不到从良的理由，站街日记，孤儿流浪记，狄更斯英国",
-    "author": "Chris Hunt ",
-    "img_url": "https://i.ibb.co/KbgqTzs/IMG-3545.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/TellMeHowToBe/",
-    "title": "Tell Me How to Be ",
-    "skip": false,
-    "rating": 4.0,
-    "keywords": "关键词：印度移民；母子各自秘密；深柜；初恋；包袱；解脱",
-    "author": "Neel Patel ",
-    "img_url": "https://i0.wp.com/chireviewofbooks.com/wp-content/uploads/2021/12/TellMeHowToBe_1920x675.jpg?fit=1200%2C422&ssl=1"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Territory/",
-    "title": "Territory ",
-    "skip": false,
-    "rating": 3.6,
-    "keywords": "关键词：短篇，隐晦，反同，虚伪家长",
-    "author": "者David Leavitt照",
-    "img_url": "https://shortstorymagictricks.files.wordpress.com/2014/07/leavitt-david-1983.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/TheOtherBF/",
-    "title": "The Other Boyfriend",
-    "skip": false,
-    "rating": 3.8,
-    "keywords": "关键词：捉三记，善待你的敌人，小三help小三",
-    "author": "Darien Cox",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/TheseViolentDelights/",
-    "title": "These Violent Delights",
-    "skip": false,
-    "rating": 3.7,
-    "keywords": "关键词：现代美国；穷大学生 & 富家公子；精神疾病；病态关系；互虐；不可靠叙事；罗密欧与朱丽叶框架；棋局隐喻；诗意语言",
-    "author": "Micah Nemerever",
-    "img_url": "https://loebandleopold.files.wordpress.com/2020/09/71fkalpso5l.jpg?w=920&h=383&crop=1"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/ThisWayOut/",
-    "title": "This Way Out",
-    "skip": false,
-    "rating": 3.8,
-    "keywords": "关键词：英国；男穆斯林 & 中产白男；二代移民；文化鸿沟；结婚",
-    "author": "Tufayel Ahmed",
-    "img_url": "https://wordpress.bigissue.com/wp-content/uploads/2022/07/1521_Books_2.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/WaterFallsOnYou/",
-    "title": "The Water that Falls On You From Nowhere翻译",
-    "skip": false,
-    "rating": 4.1,
-    "keywords": "关键词：雨果奖短篇；华裔；科幻；传宗接代；带白人老公见家长",
-    "author": "",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/WhenYouWereMe/",
-    "title": "When You Were Me",
-    "skip": false,
-    "rating": 4.0,
-    "keywords": "关键词：互换身体！中年危机霸总 & 年轻贫穷美少男 互换",
-    "author": "Robert Rodi",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/WinklerCase/",
-    "title": "The Winkler Case ",
-    "skip": false,
-    "rating": 3.6,
-    "keywords": "关键词：战后黄金年代；悬疑；意料外结局；点睛之笔",
-    "author": "David Greene",
-    "img_url": ""
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/WinterbourneSeries/",
-    "title": "Winterbourne系列四部曲",
-    "skip": false,
-    "rating": 3.9,
-    "keywords": "关键词：节日系列",
-    "author": "",
-    "img_url": "https://i1.wp.com/kimmerseroticbookbanter.com/wp-content/uploads/2018/11/Winterbourne-Series.png?fit=940%2C788&ssl=1"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/WorldAndAllThatItHolds/",
-    "title": "The World and All That It Holds ",
-    "skip": false,
-    "rating": 3.8,
-    "keywords": "关键词：一战，欧亚逃难之旅，多语言",
-    "author": "Aleksandar Hemon ",
-    "img_url": "https://mpd-biblio-covers.imgix.net/9781250883537.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/WorldWellLost/",
-    "title": "The World Well Lost ",
-    "skip": false,
-    "rating": 4.2,
-    "keywords": "关键词：短篇；科幻；外星；太空旅行二人组；暗恋；恐同；现实隐喻",
-    "author": " Theodore Sturgeon ",
-    "img_url": "https://i.ibb.co/yFzn339/IMG-1849.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/YoungMungo/",
-    "title": "Young Mungo",
-    "skip": false,
-    "rating": 3.5,
-    "keywords": "关键词：后撒切尔时代苏格兰，少年黑帮版罗密欧与朱丽叶，家暴，酗酒",
-    "author": "Stuart Douglas",
-    "img_url": "https://booksfromscotland.com/wp-content/uploads/2022/04/Young-Mungo-scaled.jpg"
-  },
-  {
-    "path": "https://boheme13.github.io/Reviews/Zone8/",
-    "title": "Zone Eight (From To Paradise) ",
-    "skip": false,
-    "rating": 4.8,
-    "keywords": "关键词：疫情，封控，末日极权，反乌托邦，婚姻/亲情亲密关系",
-    "author": "Hanya Yanagihara",
-    "img_url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F39deef50-626b-11ec-b5e6-0d64a8c5ca0d.jpg?crop=2667%2C1500%2C0%2C0"
+    "keywords": "关键词：中篇，五雷轰顶，逼飞奶炸，摄政时代，竟生出个同性恋宝宝，睡亲哥情人，亲哥变亲爹",
+    "author": "Ruby Moone",
+    "img_url": "https://www.anniesreadingtips.com/uploads/8/6/9/0/86907938/published/dances-long-forgotten-1.jpg?1635013042"
   }
 ]

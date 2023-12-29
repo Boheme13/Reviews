@@ -127,22 +127,6 @@ def main():
     # print(books[2].display_info())
     
 
-    books_data = []
-    for book in books:
-        books_data.append({
-            'path': book.path, 
-            'title': book.title, 
-            'skip': book.skip, 
-            'rating': book.rating, 
-            'keywords': book.keywords, 
-            'author': book.author, 
-            'img_url': book.img_url
-        })
-    json_data = json.dumps(books_data, indent=2, ensure_ascii=False)
-
-    file_path = './books.json'
-    with open(file_path, 'w', encoding='utf-8') as json_file:
-        json_file.write(json_data)
 
 
 
@@ -173,7 +157,25 @@ def main():
                     output.write(f"![img]({book.img_url})<br>\n")
             output.write("\n\n")
 
-    
+    books_data = []
+    for book in books:
+        img_url = book.img_url
+        if img_url != "" and img_url[0:2] == "./":
+            img_url = f"https://boheme13.github.io/Reviews/{img_url}"
+        books_data.append({
+            'path': book.path, 
+            'title': book.title, 
+            'skip': book.skip, 
+            'rating': book.rating, 
+            'keywords': book.keywords, 
+            'author': book.author, 
+            'img_url': img_url
+        })
+    json_data = json.dumps(books_data, indent=2, ensure_ascii=False)
+
+    file_path = './books.json'
+    with open(file_path, 'w', encoding='utf-8') as json_file:
+        json_file.write(json_data)
 
 
 
