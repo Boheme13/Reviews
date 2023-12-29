@@ -295,7 +295,7 @@
 [The People in the Trees ](https://boheme13.github.io/Reviews/PeopleInTheTrees/) ⭐️⭐️⭐️<br>
 关键词：1：独白体，男版洛丽塔，不可靠叙事者；2：长生不老，土著岛民，学术帝国殖民主义；共同关键词：权力失衡，不对等关系
  <br><br> 
-![avatar](https://i.ibb.co/rdv7pj9/IMG-1930.jpg)<br>
+![avatar](./PeopleInTheTrees/cover.jpg)<br>
 
 
 [Perfect Day](https://boheme13.github.io/Reviews/PerfectDay/) <br>

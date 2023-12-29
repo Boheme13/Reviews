@@ -1,6 +1,6 @@
 ## How to Piss Off A Failed Super-Soldier
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
-![avatar](https://i.ibb.co/tKcdmzn/Super-Soldier-FINAL-3-jpg.png)
+![avatar](./cover.png)
 <br/>
 <br/>
 

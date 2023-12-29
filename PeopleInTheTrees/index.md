@@ -1,6 +1,6 @@
 ## The People in the Trees
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
-![avatar](https://i.ibb.co/rdv7pj9/IMG-1930.jpg)
+![avatar](./cover.jpg)
 
 <br>
 作品：The People in the Trees <br>

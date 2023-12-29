@@ -10,7 +10,7 @@
 [The People in the Trees ](https://boheme13.github.io/Reviews/PeopleInTheTrees/) Rating: 4.9<br>
 关键词：1：独白体，男版洛丽塔，不可靠叙事者；2：长生不老，土著岛民，学术帝国殖民主义；共同关键词：权力失衡，不对等关系
  <br><br> 
-![img](https://i.ibb.co/rdv7pj9/IMG-1930.jpg)<br>
+![img](.././PeopleInTheTrees/cover.jpg)<br>
 
 
 [London Series](https://boheme13.github.io/Reviews/Gentlemen/LondonSeries/) Rating: 4.8<br>
@@ -175,7 +175,7 @@
 [The World Well Lost ](https://boheme13.github.io/Reviews/WorldWellLost/) Rating: 4.2<br>
 关键词：短篇；科幻；外星；太空旅行二人组；暗恋；恐同；现实隐喻
  <br><br> 
-![img](https://i.ibb.co/yFzn339/IMG-1849.jpg)<br>
+![img](.././WorldWellLost/IMG-1849.jpg)<br>
 
 
 [The Executive Office系列 ](https://boheme13.github.io/Reviews/ExecutiveOffice/) Rating: 4.2<br>
