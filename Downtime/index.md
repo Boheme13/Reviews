@@ -1,7 +1,7 @@
 ## Downtime
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
-![avatar](https://static01.nyt.com/images/2019/04/21/sunday-review/21wittmeyer/21wittmeyer-superJumbo.jpg)
+![avatar](./21wittmeyer-superJumbo.jpg)
 <br>
 <br>
 

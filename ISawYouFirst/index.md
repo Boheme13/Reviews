@@ -1,7 +1,7 @@
 ## I Saw You First
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
-![avatar](https://static.independent.co.uk/2021/11/11/12/newFile.jpg)
+![avatar](./newFile.jpg)
 <br>
 <br>
 

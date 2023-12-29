@@ -1,7 +1,7 @@
 ## Audition 翻译
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
-![avatar](https://media.newyorker.com/photos/5ff74dd3ca8142b226b81b5f/2:1/w_2007,h_1003,c_limit/210118_r37730_rd.jpg)
+![avatar](./210118_r37730_rd.jpg)
 <br>
 <br>
 

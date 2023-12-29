@@ -1,7 +1,7 @@
 ## 绅士三部曲
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
-![avatar](https://cdna.artstation.com/p/assets/images/images/017/753/690/large/harry-grace-all-3-covers.jpg?1557227031)
+![avatar](./harry-grace-all-3-covers.jpg)
 <br>
 <br>
 

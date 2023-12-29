@@ -2,7 +2,7 @@
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
 
-![avatar](https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/newspaper-digital-remastered-edition-joseph-christian-leyendecker.jpg)
+![avatar](./newspaper-digital-remastered-edition-joseph-christian-leyendecker.jpg)
 <br>
 <br>
 

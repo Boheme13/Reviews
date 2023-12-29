@@ -1,7 +1,7 @@
 ## An Arrow’s Flight
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
-![avatar](https://www.worldhistory.org/img/c/p/1200x627/14193.jpg)
+![avatar](./14193.jpg)
 <br>
 <br>
 

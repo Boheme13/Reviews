@@ -1,7 +1,7 @@
 ## Zone Eight
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
-![avatar](https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F39deef50-626b-11ec-b5e6-0d64a8c5ca0d.jpg?crop=2667%2C1500%2C0%2C0)
+![avatar](./-methode-sundaytimes-prod-web-bin-39deef50-626b-11ec-b5e6-0d64a8c5ca0d.jpg)
 <br>
 <br>
 

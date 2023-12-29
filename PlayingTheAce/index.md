@@ -1,7 +1,7 @@
 ## Playing the Ace
 [回到上一页](https://boheme13.github.io/books/)  &nbsp;&nbsp;
 
-![avatar](https://www.aier.org/wp-content/uploads/2017/03/Survival_of_the_Fittest-scaled-1200x900-cropped.jpg)
+![avatar](./Survival_of_the_Fittest-scaled-1200x900-cropped.jpg)
 <br>
 <br>
 

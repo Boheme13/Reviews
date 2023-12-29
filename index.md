@@ -49,7 +49,7 @@
 [Audition](https://boheme13.github.io/Reviews/Audition/) ⭐️⭐️⭐️<br>
 关键词：coming of age；全文翻译
  <br><br> 
-![avatar](https://media.newyorker.com/photos/5ff74dd3ca8142b226b81b5f/2:1/w_2007,h_1003,c_limit/210118_r37730_rd.jpg)<br>
+![avatar](./Audition/210118_r37730_rd.jpg)<br>
 
 
 [The Bad Husband’s Handbook](https://boheme13.github.io/Reviews/BadHusbandHandbook/) <br>
@@ -64,7 +64,7 @@
 [Big Bad Wolf Series](https://boheme13.github.io/Reviews/BigBadWolfSeries/) ⭐️⭐️<br>
 关键词：人狼；FBI；探案；强强
  <br><br> 
-![avatar](https://pbs.twimg.com/media/FmSLUUGagAATEDI?format=jpg&name=large)<br>
+![avatar](./BigBadWolfSeries/FmSLUUGagAATEDI.jpg)<br>
 
 
 [Blue Skies](https://boheme13.github.io/Reviews/BlueSkies/) <br>
@@ -121,7 +121,7 @@
 [Downtime ](https://boheme13.github.io/Reviews/Downtime/) ⭐️⭐️<br>
 关键词：古风，穿越，现代->1880s伦敦，美国FBI & 英国灵媒，开膛手杰克
  <br><br> 
-![avatar](https://static01.nyt.com/images/2019/04/21/sunday-review/21wittmeyer/21wittmeyer-superJumbo.jpg)<br>
+![avatar](./Downtime/21wittmeyer-superJumbo.jpg)<br>
 
 
 [The Englishman ](https://boheme13.github.io/Reviews/Englishman/) <br>
@@ -157,7 +157,7 @@
 [Gentlemen Series](https://boheme13.github.io/Reviews/Gentlemen/) ⭐️⭐️⭐️<br>
 关键词：伦敦，贵族，摄政时代
  <br><br> 
-![avatar](https://cdna.artstation.com/p/assets/images/images/017/753/690/large/harry-grace-all-3-covers.jpg?1557227031)<br>
+![avatar](./Gentlemen/harry-grace-all-3-covers.jpg)<br>
 
 
 [London Series](https://boheme13.github.io/Reviews/Gentlemen/LondonSeries/) ⭐️⭐️⭐️<br>
@@ -367,7 +367,7 @@
 [Server](https://boheme13.github.io/Reviews/Server/) ⭐️⭐️⭐️<br>
 关键词：大阪，旅日美国人，closure
  <br><br> 
-![avatar](https://media.newyorker.com/photos/64e7b9cfd9946db461924672/1:1/w_2560,h_2560,c_limit/Washington_Server_Novella_social.png)<br>
+![avatar](./Server/Washington_Server_Novella_social%20(1)<br>
 
 
 [族裔作品大全 ](https://boheme13.github.io/Reviews/RaceEthinicity/) Rating: 4.5](https://boheme13.github.io/Reviews/Sorting/) <br>
@@ -418,6 +418,6 @@
 [Zone Eight (From To Paradise) ](https://boheme13.github.io/Reviews/Zone8/) ⭐️⭐️⭐️<br>
 关键词：疫情，封控，末日极权，反乌托邦，婚姻/亲情亲密关系
  <br><br> 
-![avatar](https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F39deef50-626b-11ec-b5e6-0d64a8c5ca0d.jpg?crop=2667%2C1500%2C0%2C0)<br>
+![avatar](./Zone8/-methode-sundaytimes-prod-web-bin-39deef50-626b-11ec-b5e6-0d64a8c5ca0d.jpg)<br>
 
 
