@@ -1,5 +1,6 @@
 import os
 import math
+import json
 
 class Book:
     def __init__(self, path, title, skip, rating=-1, keywords="", author="", img_url=""):
@@ -65,8 +66,9 @@ def main():
             with open(url[2], 'r') as markdown:
                 lines = markdown.readlines()
                 book, output_str, keys = "", "", ""
-                find_book, find_rate, find_key, add_img = False, False, False, False
+                find_book, find_rate, find_key, add_img, find_author = False, False, False, False, False
                 count, rating = 0, -1
+                author = ""
                 img_url, find_img = "", False
                 for line in lines:
                     line = line.rstrip()
@@ -79,6 +81,10 @@ def main():
                         book = line[3:index]
                         find_book = True
                         output_str = f"[{book}]({url[1]}) "
+                    if line.find("作者") != -1 and not find_author:
+                        index = line.find('<')
+                        author = line[3:index]
+                        find_author = True
                     if line.find("评分") != -1 and line.find('/') != -1 and not find_rate:
                         index = line.find('/')
                         rating = round(float(line[3:index]), 2)
@@ -117,8 +123,26 @@ def main():
                     output.write(f"![avatar]({img_url})<br>\n")
                     # output.write("\n <br> \n")
                 output.write("\n\n")
-                books.append(Book(path=url[1], title=book, skip=False, rating=rating, keywords=keys, author="", img_url=img_url))
+                books.append(Book(path=url[1], title=book, skip=False, rating=rating, keywords=keys, author=author, img_url=img_url))
     # print(books[2].display_info())
+    
+
+    books_data = []
+    for book in books:
+        books_data.append({
+            'path': book.path, 
+            'title': book.title, 
+            'skip': book.skip, 
+            'rating': book.rating, 
+            'keywords': book.keywords, 
+            'author': book.author, 
+            'img_url': book.img_url
+        })
+    json_data = json.dumps(books_data, indent=2, ensure_ascii=False)
+
+    file_path = './books.json'
+    with open(file_path, 'w', encoding='utf-8') as json_file:
+        json_file.write(json_data)
 
 
 
@@ -126,7 +150,9 @@ def main():
     # clear the output file
     with open(output_path, 'w') as output:
         output.write("""## Reviews\n[回到主页](https://boheme13.github.io/Reviews/)<br><br>\n\n""")
-    
+
+
+
     books = [book for book in books if book.path != 'https://boheme13.github.io/Reviews/Sorting/']
     books.sort(key=lambda book: (book.rating, -word_to_number(book.title)), reverse=True)
 
@@ -147,7 +173,8 @@ def main():
                     output.write(f"![img]({book.img_url})<br>\n")
             output.write("\n\n")
 
-            
+    
+
 
 
                      
